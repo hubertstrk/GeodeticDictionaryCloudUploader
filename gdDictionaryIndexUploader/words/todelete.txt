@@ -1,0 +1,37 @@
+agrarstrukturelle rahmenplanung;skeleton-planning for agrarian structure
+aktualitaet;up-to-date
+arbeitsspeicher;random access memory
+amtliche karte;official map
+amtliche kartenwerke;official map series
+amtliche kartographie;official cartography
+amtliche schreibweise;official orthography
+amtliche statistik;official statistics
+aktiver sensor;active sensor
+anwendungsprogramm;application program
+anwendungsschemata;application schemes
+anwendungssoftware;application software
+arbeitsspeicher;random access memory
+aufruf;call
+automatisiertes liegenschaftsbuch;automatic real estate tables
+alk;automatic real estate map
+alb;automatic real estate tables
+lage 1;face 1
+lage 2;face 2
+verlaengerung der basis;base line extension
+sehnentangentenwinkel;chord-tangent-angle
+gemeinde;community
+querprofil;cross section / cross profile
+gauss-krueger-koordinaten;gauss-krueger coordinates
+meile;geographical mile
+hoehe ueber nn;height above german reference surface
+helmert-projektion;helmert projection
+helmert-transformation;helmert transformation
+infrastruktur;infra-structure
+originalmessungen;initialmeasurement
+schnitt mit geraden;intersection with parallels
+entwurf;lay-out
+seemeile;n.mi
+objektiv;obective
+index;index
+querprofil;cross-section
+querschnitt;cross-section

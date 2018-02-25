@@ -1,0 +1,3863 @@
+abfragefenster;query window
+abfrage;query
+abfragesprache;query language
+abgeleitet;derived
+massstab;scale
+ablaufdiagramm;schedule chart
+ablaufplan;project schedule
+ableitung;derivative
+abmelden;logout
+abplattung;flattening
+abschattung;shadow
+koordinaten;coordinates
+absolut;absolute
+orientierung;orientation
+absolutwert;absolute value
+abstand;distance
+abbildung;projection
+absteckung;laying out
+absteckung;setting out
+spezifikation;specification
+abstrakt;abstract
+datentyp;data type
+abszisse;abscissa
+abszissenachse;axis of abscissa
+abtasten;scannen
+abtastfrequenz;scanning rate
+abtastlupe;scanning microscope
+abtastmodus;scanning mode
+abtastung;scanning
+abtrag;excavation
+abwaertskompatibilitaet;downward compatibility
+achse;axis
+adapter;adapter
+adjazenz;adjacency
+adjazenzanalyse;adjacency analysis
+adjazenzmatrix;adjacency matrix
+aerophotogrammetrie;aerial photogrammetry
+aerotriangulation;aerial triangulation
+affine transformation;affine transformation
+agrargeographische karte;agrogeographic map
+agrarland;agricultural land
+agrarstruktur;agrarian structure
+aehnlichkeit;similarity
+aehnlichkeitstransformation;similarity transformation
+akquisition;acquisition
+satellit;satellite
+sensor;sensor
+aktualisierung;updating
+algorithmus;algorithm
+almanach;almanac
+alphabetisches namensverzeichnis;alphabetic name register
+alphabetisches ortsverzeichnis;alphabetic place register
+alphanumerisch;alphanumeric
+alphanumerische daten;alphanumeric data
+altgrad;degree
+karte;map
+kartenwerke;map series
+kartographie;cartography
+schreibweise;orthography
+statistik;statistics
+amtliches topographisch-kartographisches informationssystem;authoritative topographic cartographic information system
+analog;analogue
+analog digital wandlung;analogue digital conversion
+analogausgabe;hardcopy
+bildmessung;image measurements
+bildtransformation;image transformation
+bildverarbeitung;image processing
+karte;map
+photogrammetrie;photogrammetry
+bild;image
+analyse;analysis
+analytisch;analytical
+funktion;function
+anpassung;tuning
+feineinstellung;tuning
+anschlusspunkte;junction points
+antenne;antenna
+antwort;response
+anwendung;application
+programm;program
+software;software
+anzeige;display
+apertur;aperture
+applikation;application
+approximation;approximation
+aequator;equator
+aequidistanz;equidistance
+aequipotenzialflaeche;equipotential surface
+arbeitsablauf;workflow
+arbeitsplanung;work planning
+arbeitsplatz;workstation
+arbeitsstation;work station
+architektur;architecture
+archiv;archive
+archivierung;archiving
+argument;argument
+arithmetisches mittel;arithmetic mean
+astronomisch;astronomic
+atlas;atlas
+atmosphaere;atmosphere
+laufzeitverzoegerung;time delay
+streuung;scattering
+attribut;attribute
+aufloesung;resolution
+aufloesungsvermoegen;resolution
+aufmass;measuring up
+aufmessung;surveying
+aufnahme;survey
+format;format
+aufnahmeskizze;survey sketch
+aufnehmen;survey
+aufriss;vertical projection
+aufruf;request
+aufsetzen;setup
+dichte;density
+ausdehnung;extension
+ausgabe;output
+ausgabebild;output image
+ausgabegeraet;output device
+ausgangswert;default value
+ausgleichung;adjustment
+ausrichtung;justification
+ausschlussflaechen;exclusion areas
+ausschneiden;clip
+ausschreibung;submission
+aussehen;layout
+aussenflaeche;exterior area
+aeussere orientierung;exterior orientation
+aeussere orientierung;outer orientation
+auswertegeraet;restitution device
+auswertung;processing
+auszeichung;markup
+auszug;extraction
+authentifizierung;authentification
+automation;automation
+datenverarbeitung;data processing
+merkmalserkennung;feature recognition
+kartierung;mapping
+automatisierte liegenschaftskarte;automatic real estate map
+axonometrie;axonometry
+azimut;azimuth
+azimutabbildung;azimuthal projection
+azimutalprojektion;azimuthal projection
+azimutbestimmung;azimut determination
+additionskonstante;additive constant
+ausgleichsrechnung;computation adjustment
+ausgleichsparameter;adjustment parameter
+achsenfehler;axis error
+achssystem;axis system
+boeschungswinkel;angle of steepest slope
+fehler;error
+einstellgenauigkeit;accuracy in focusing
+flaechennivellement;area levelling
+flaeche;area
+genauigkeit;accuracy
+gelaende;terrain
+hilfsbasis;auxiliary base
+hoehe;altidude
+hoehenaufnahme;altimetric survey
+hoehe ueber nn;altitude above sea level
+hoehenlinie;contour line
+hoehe;height
+hoehenwinkel;angle of elevation
+linie;line
+luftbild;aerial photograph
+lotabweichung;angle of deviation of the vertical
+messungslinie;aligning base
+naeherungskoordinaten;approximation coordinates
+neigungswinkel;angle of slope
+oberflaeche;surface
+richtungswinkel;angle of direction
+scheitelpunkt;apex
+vorwaertseinschnitt;intersection
+winkelabschlussfehler;angular closure error
+winkelsummengleichung;angular equation
+winkelfehler;angular error
+winkelmessung;ange measurement
+winkel;angle
+lage;face
+umklappeffekt;scattering effect
+zulaessiger fehler;admissable error
+zufaelliger fehler;accidental error
+rueckblick;back obsevation
+vorblick;forth observation
+barometer;barometer
+barometrischer hoehenmesser;barometric altimeter
+basis;base
+basismessung;base measurement
+richtungswinkel;bearing of a line
+bogenanfang;beginning of curve
+hoehenbolzen;bench mark
+nivellementpunkt;bench mark
+berme;berm
+grenzstein;border stone
+grenzstein;boundary stone
+libellenachse;bubble axis
+flaechenberechnung;calculation of area
+fahrbahn;carriageway
+traegerwellenlaenge;carrier wave length
+achslinie;centre line
+achspunkt;center line point
+bogenmitte;centre of curve
+zentrier fehler;centring error
+kanal;channel
+vergleichsmessungen;check measurement
+sehnentangentenwinkel;chord tangent angle
+kruemmungskreis;circle of curvature
+teilkreisverstellung;circle orienting knob
+bogenmass;circular measure
+lattenrichter;circular rod level
+arretierung;clamp
+feststellschraube;clamping screw
+geschlossener polygonzug;closed traverse
+koordinatenabschlussfehler;closing error of a traverse
+hoehenabschlussfehler;closing height error
+klothoide;clothoid
+vergleichsmessungen;comparative
+komparator;comparator
+eichstrecke;comparator base
+vergleichsstrecke;comparison line
+feldvergleich;comparison on site
+ortsvergleich;comparison on site
+ausgleichsparameter;compensation parameter
+korbklothoide;compound clothoid
+fehlerberechnung;computation of errors
+schnittberechnung;computation of intersections
+festpunktberechnung;computation of points determined
+kleinpunktberechnung;in a net of aligning. bases
+massenberechnung;computation of quantities
+kleinpunktberechnung;computation of side shots
+schnittbedingungen;conditions of intersection
+anschlusswinkel;connecting angle
+anschlussrichtung;connecting direction
+anschlusspunkt;connecting point
+setzung;consolidation
+kontrollmass;control distance
+kontrollmessung;control measurement
+festpunkt;control point
+kontrollpunkte;control points
+koordinatendifferenz;coordinate difference
+koordinaten;coordinates
+flaecheneckpunkte;corner points of an area
+fadenkreuz;cross hair
+querprofil;cross section
+kreuzscheibe;cross staff
+querschnitt;cross section
+bordstein;curb
+kruemmung;curvature
+schleife;cycle loop
+zyklischer phasenfehler;cyclic phase error
+talspere;dam
+damm;dam
+deklination;declination
+gefaelle;declivity
+deformationsmessungen;deformation measurements
+punktdichte;density of points
+entwurf;design
+ablenkprisma;deviating prism.
+lichtpause;diazo print
+differenz;difference
+hoehenunterschied;difference in elevation
+direkte beobachtung;direct observation
+richtung;direction
+richtungsbeobachtung;direction observation
+verzerrung;disortion
+streckenfehler;distance error
+streckenmessung;distance measurement
+entfernungsmessgeraet;distance measurement instrument
+teilkreis;divided circle
+wendelatte;double-sided staff
+entwurf;draft
+rechtswert;easting
+zielachsenexzentrizitaet;eccentricity of collimation axis
+teilkreisexzentrizitaet;eccentricity of graduated circle
+eilinie;egg-shaped line
+elektrooptische entfernungsmessung;electro-optical distance measurement
+hoehe;elevation
+kote;elevation number
+bogenende;end of curve
+endpunkt;endpoint
+fehlerverteilung;error distribution
+fehlerellipse;error ellipse
+fehlergrenze;error limit
+abschlussfehler;error of closure
+richtungsfehler;error of direction
+streckenfehler;error of distance
+kippachsenfehler;error of horizontal axis
+achsenneigung;error of horizontal axis
+laengenabweichung;error of length
+messungsfehler;error of measurement
+beobachtungsfehler;error of observation
+einstellfehler;error of pointing
+zielfehler;error of pointing
+lagefehler;error of position
+ablesefehler;error of reading
+stehachsenfehler;error of the vertical axis
+vertikalachsenfehler;error of the vertical axis
+achsenneigung;error of tilting
+kippachsenfehler;error of tilting
+hoehenindexabweichung;error of vertikal collimation
+schaetzung;estimation
+auswertung;evaluation
+okular;eyepiece
+fernrohrlage;face postition of the telescope
+einwandfreie vermessung;faultless surveying
+fehlerhaft;faulty
+messungsprotokoll;field book
+feldbuchrahmen;field book frame
+erkundung;field reconnaissance
+feldbuch;field notebook
+feldarbeiten;field work
+feinablesung;fine reading
+mauerbolzen;fixing bolt
+fluchtstab;flagpole
+gehweg;footway
+zwangszentrierung;forced centring
+vorblick;fore-sight
+berechnungsart;form of computation
+freie stationierung;free stationing
+frequenzmodulation;frequency modulation
+grundstueck;funds
+stollen;gallery
+neugrad;gon
+steigung;gradient
+teilkreis;graduated circle
+teilstrich;graduation line
+grosskreis;great circle
+gitter;grid
+netz;grid
+netz;net
+richtungswinkel;grid bearing
+grober fehler;gross error
+gelaendepunkte;ground survey points
+grundwasser;ground water
+aufsatzkreisel;gyroscope attachment
+hoehengenauigkeit;height accuracy
+hoehendifferenz;height difference
+instrumentenhoehe;height of instrument
+helmert projektion;helmert projection
+helmert transformation;helmert transformation
+horizont;horizon
+kippachse;horizontal axis
+horizontalkreis;horizontal circle
+wasserbau;hydraulic engineering
+beleuchtungseinrichtung;illuminiating equipment
+unzugaenglich;inaccessible
+kippachsenfehler;inclination of trunnion axis
+rampe;inclined plane
+richtungssatz;round of direction
+beobachtung;observation
+messungenauigkeiten;inexactitudes of measurement
+wendelinie;inflection line
+infrastruktur;infrastructure
+originalmessungen;initial measurement
+instrumentenfehler;instrumental error
+zwischenblick;intermediate fore-sight
+lichte weite;internal diameter
+interpolation;interpolation
+vorwaertseinschneiden;intersection
+vorwaertseinschnitt;intersection
+geradenschnitt;intersection of straight lines
+schnittpunkt;intersection point
+iteration;iteration
+anschlussbedingungen;junction conditions
+knotenpunkt;junction poin
+bordstein;kerb
+bordsteinkurve;kerb curve
+tastatur;keyboard
+kuppe;knob
+grundstueck;landed property
+querformat;landscape
+querfehler;lateral error
+querabweichung;cross deviation
+querneigung;lateral tilt
+seitenverkehrt;laterally reversed
+abstecken;laying out
+absteckung;laying out
+tunnelabsteckung;laying out of a tunnel
+absteckplan;layout plan
+laenge;length
+bogenlaenge;length of curve
+nivellier;level
+nivellierinstrument;level
+libelle;leve
+libelle;bubble
+libellenachse;level axis
+nivellement;levelling
+schleifenschlussfehler;levelling error of closure
+stehachsenfehler;levelling error
+nivellierfaden;levelling hair
+nivellementzug;levelling line
+nivellementschleife;levelling loo
+nivellierlatte;level rod
+fallinie;line of greatest slope
+standpunkt;location
+lageplan;location plan
+feststellschaube;locking screw
+laengsrichtung;long direction
+laengsfehler;longitudinal error
+laengsgefaelle;longitudinal slope
+laengenschitt;longitudinal section
+schleife;loop
+lupe;magnifying glass
+vermarken;mark
+bogenabsteckung;marking out a curve
+mittlerer fehler;mean square error
+mittelwert;mean value
+messanordnung;measuring arrangement
+vermessungsinstrumente;measuring instruments
+messmethode;measuring method
+satzweise winkelmessung;measuring of angles in sets
+messbereich;measuring range
+bandmass;measuring tape
+massband;measuring tap
+schleppkurve;minimum turning curve
+bogenminute;minute
+abschlussfehler;misclosure
+plausibelster wert;most probable value
+landesnetz;national network
+seemeile;nautical mile
+netzpunkt;net point
+dreiecksnetz;network of triangles
+neupunkt;new point
+knotenpunkt;junction poin
+seitenrichtig;nonreversed
+normalfall;normal case
+hochwert;northing
+objektiv;object lens
+beobachtung;observation
+zwangspunkt;obstruction
+tagebau;opencast mining
+bediener;operator
+optische achse;optical axis
+optisches lot;optical plumment
+ordinate;ordinate
+ordinatenachse;ordinate axis
+orientierung;orientation
+orientierungsfehler;orientation error
+anschlussmessung;orientation measurement
+anschlusspunkt;orientation point
+hoehennullpunkt;origin of heights
+ueberbestimmung;overdetermination
+lichte hoehe;overhead clearance
+parallaxe;parallax
+parallelkreis;parallel
+parameter;parameter
+flurstueck;parcel
+gemeindegrenze;parish boundary
+gehweg;pavement
+senkrechtschnitt;perpendicular of intersections
+phasenverschiebung;phase difference
+bildflug;photo flight
+luftbildkarte;photomap
+bildmassstab;picture scale
+aufsetzzapfen;plug
+steckzapfen;plug
+lot;plument
+ablotung;plumbing down
+schnittpunkt;point of intersection
+polarkoordinaten;polar coordinates
+polaraufnahme;polar measurements
+polarpunkt;polar point
+polaraufnahme;polar survey
+standpunkt;position
+lagegenauigkeit;position accuracy
+lagedifferenzen;position difference
+lagefehler;positional error
+vorplanung;pre-planning
+steilhang;precipice
+feinnivellement;precise levelling
+hauptachse;principal axis
+bogenhauptpunkt;principal point of a curve
+prinzip der nachbarschaft;principle of adjacent points
+prisma;prism
+wahrscheinlichkeit;probablility
+profil;profile
+projekt;project
+aehnlichkeitstransformation;proportional transformation
+winkelmesser;protractor
+bogenmass;radian
+radius;radius
+rampe;ramp
+zufaelliger fehler;random error
+unregelmaessiger fehler;random error
+reichweite;range of coverage
+spannweite;range
+sichtweite;range of visibility
+fluchtstab;ranging pole
+fluchtstabstativ;ranging pole support
+verhaeltnis;ratio
+grundstueck;real estate
+erkundung;field reconnaissance
+ueberbestimmung;redundant
+legende;reference of conventional signs
+reflektor;reflector
+refraktion;refraction
+relativer fehler;relative error
+restfehler;remaining error
+fernziel;remote target
+ersatzpunkt;replacement point
+rueckwaertseinschnitt;resection
+restparallaxe;residual parallax
+strichplatte;reticule plate
+seitenverkehrt;reversed
+winkelprisma;right angle prism
+seitenrichtig;right reading
+fernrohrachse;axis of the telescope
+pegel;rivergauge
+strasse;road
+fahrbahndecke;road surfac
+fahrbahn;roadway
+lattenteilung;staff graduation (usa)
+lattenteilung;rod graduation (gb)
+lattenablesung;rod reading
+rundung;rounding
+strasse;route
+wanne;sag
+durchhang des messbandes;sag of tape
+massstab;scale
+bildmassstab;scale of photograph
+nivellementstrecke;section of levelling
+quadrant;sector
+richtungssatz;set of directions
+absteckungsberechnung;setting out computation
+trassierungselemente;setting out data
+absteckplan;setting out map
+bogenabsteckung;setting out of a curve
+tunnelabsteckung;setting out of a tunnel
+aufstellung;setting up
+aufstellungsexzentrizitaet;setting up eccentricity
+aufstellfehler;setting-up error
+setzung;settlement
+kanalisation;sewerage
+dreifuss;tribrach
+winkelfunktionen;trigonometric functions
+trigonometrische hoehenmessung;trigonomic levelling
+seitenrichtig;true sided
+fernrohrdrehachse kippachse;trunnion axis
+kippachse;trunnion axis
+stollen;tunnel
+scheitelklothoide;two spirals without cicular curve
+regelquerschnitt;typical cross
+einheitsklothoide;unit clothoid
+stadtplanung;urban planning
+wert;value
+schallgeschwindigkeit;velocity of sound
+nonius;vernier
+vertikalwinkel;vertical angle
+stehachse;vertical axis
+vertikalkreis;vertical circle
+hoehenabschlussfehler;vertical closure
+hoehenabschlussfehler;vertical closure error
+hoehenfestpunkt;vertical control point
+hoehennetz;vertical control survey networ
+hoehensystem;vertical control system
+hoehenparalaxe;vertical parallax
+massstab der hoehen;vertical scale
+sichtbarkeit;visibility
+zielachse;visual axis
+sichtfeld;visual field
+volumen;volume
+pegel;water gauge
+pegel;water level
+wasserstand;water level
+wasserfuehrende schichten;water-bearing formations
+wasserfuehrende schichten;water-bearing strata
+fahrbahnverbreiterung;widening of carriageway lan
+bussole compass;with dioter
+sicherungsmarke;witness point
+zenitwinkel;zenith angle
+zenitdistanz;zenith distance
+aufmessen;survey
+vermessungsgebiet;survey area
+polaraufnahme;polar surve
+aufnahmenetz;survey network of lower order
+hoehenaufnahme;survey of the relief
+aufmessung;surveying
+hoehensystem;system of heights
+tachymeteraufnahme;tacheometer survey
+tachymeterzug;tacheometer traverse
+tachymetrie;tacheometry
+boeschung;talus
+tangente;tangent
+zielpunkt;target point
+erdkugel;terrestrial sphere
+theodolit;theodolite
+soll-lage;theoretical location
+fehlerlehre;theory of errors
+dreidimensional;three dimensionally
+gezeiten;tide
+kippachse;tilting
+einfluchten;to align
+einspielen;to bring into coincidence
+einspielen;to centre
+zentrieren;to centre
+eintasten;to imprint
+abstecken;to layout
+markieren;to mark
+abnahme;to measure strike and dip of a deposit
+abloten;to plumb down
+anzielen;to point
+runden;to round
+abrunden;to round down bs
+trassieren;to select and survey a route
+abstecken;to set
+abmarken;to set boundaries
+einfluchten einweisen;to set out in line
+toleranzgrenze;tolerance limit
+mutterboden;top soil
+topographische aufnahme;topographic survey
+topographie;topography
+stadtplanung;town planning
+fahrarm;tracing bar
+fahrarm;planimete
+fahrstreifen;traffic lane
+maschenweise transformation;transformation by grid
+koordinatentransformation;transformation of coordinates
+transformation auf linie;transformation onto a line
+transformationsmassstab;transformation scale
+uebergangsbogen;transition curve
+lichtpause;transmission print
+gauss-krueger-koordinaten;transverse mecator coordinates
+hauptachse;transverse axis
+polygonzug;traverse
+polygonzug;traverse
+brechungswinkel;traverse angle
+polygonseite;traverse sid
+einseitig angeschlossener polygonzug;traverse tied at one end
+freier polygonzug;traverse without connection
+einrechnungszug;traverse without orientation
+dreieck;triangle
+lattenablesung;staff reading
+gleisabsteckung;staking out of a railway line
+standardabweichung;standard deviation
+mittlerer fehler;standard error
+mittlerer fehler;mean square erro
+mittlerer punktfehler;standard error of position
+mittlerer gewichtseinheitsfehler;standard error of unit weights
+stehachse;standing axis
+umdrehungsachse;standing axis
+anfangspunkt;starting point
+bogenanfang;starting point of a curve
+stationsausgleichung;station adjustment
+standpunkt;station
+stationierung;stationing
+zaehlnadel;steel pin
+steilhang;steep bank
+steilhang;steep slope
+gerade;straight
+strasse;street
+aufsatzbussole;striding compass
+basislatte;subtense bar
+basiseinheit;subtense unit
+bezugsflaeche;surface
+flaeche;surface
+flaeche;area
+erdkruemmung;surface curvature of the earth
+untiefe;shoal
+uferlinie;shore line
+gehweg;sidewalk
+fluchtstab;sight pole
+schnurgeruest;sight rail
+zielachse;sighting axis
+sichtbedingungen;sighting conditions
+vorzeichen;sign
+fehleranfaellig;error prone
+aehnlichkeitstransformation;similarity transformation
+einzelpunkte;single points
+basisgroesse;size of base line
+boeschung;slope
+gefaelle;slope
+neigung;slope
+schraegentfernung;slope distance
+boeschungsverhaeltnis;slope ration
+kleinkreis;smaff circle
+kleinkoordinatensystem;small scale coordinate system
+soldner-koordinaten;soldner coordinates
+loesung;solution
+regelquerschnitt;specified cross section
+regelquerschnitt;typical cross
+uebergangsbogen;spiral curve
+aufsatzlibelle;spirit level
+springtide;spring tide
+distanzfaeden;stadia hairs
+lattenfehler;staff error
+abkuerzung;abbreviation
+faehigkeit;ability
+absolute orientierung;absolute orientation
+missbrauchen;abuse to
+zugaenglich;accessible
+genauigkeit;accuracy
+erreichen;achieve to
+abhaengiger;addict
+ausgleichung (nach der methode der kleinsten quadrate);adjustment
+ausgleichung vermittelnder beobachtungen;adjustment of intermediate observations
+verwaltungsleiter;administration manager
+erwachsen;adult
+ratsam;advisable
+luftbild;aerial photograph
+tagesordnung;agenda
+ansammeln;aggregate to
+zusammengenommen;aggregate to
+ansammlung;aggregation
+mittelgang;aisle
+erlaubnis;allowance
+aluminium;aluminum (am.)       aluminium (brit.)
+mehrdeutigkeit;ambiguity
+betrag;amount
+faelliger betrag;amount due
+analysewerkzeug;analysis tool
+brechungswinkel;angle (traverse-)
+blende;aperture
+bewerbung;application
+anwenden;apply to
+auszubildender;apprentice
+ausbildung;apprenticeship
+naeherungswerte;approximated values
+eigenwillig;arbitrary
+willkuerlich;arbitrary
+bogenschnitt;arc section
+flaechenbezogen;area related
+anordnung;arrangement
+ankunft;arrival
+american society for photogrammetry and remote sensing;asprs
+geltend machen;assert to
+stellvertretender leiter;assistant manager
+annahme;assumption
+astronomisches (nautisches) dreieck;astronomic triangle
+versuch;attempt
+teilnehmen;attend to
+zu haenden;attention (attn)
+vermeiden;avoid to
+vermeidung;avoidance
+richtungswinkel;azimuth
+rueckblick;backsight
+kugellager;ball bearing
+basisverhaeltnis;base-height ratio
+hoehenfestpunkt;bench mark
+nutzen;benefit
+jenseits;beyond
+irrtum;blunder
+bordkarte;boarding pass
+fett gedruckt;bold
+grenze (kataster-);boundary
+ziegel;brick
+wertpapierhandel;brokerage
+maklerwesen;brokerage
+dosenlibelle;bulls eye level
+buchse;bush
+nur ein (wert);but one (value)
+absagen;cancel to
+krebs;cancer
+faehigkeit;capability
+grossbuchstabe;capital (letter)
+erfassen;capture to
+einfangen;capture to
+grundzahl;cardinal number
+bargeld;cash
+bar bei lieferung;cash on delivery  (cod)
+himmelskugel;celestial sphere
+element;cell
+zelle;cell
+bescheinigt;certified
+vorsitzende\r;chair(wo)man chairperson
+schriftzeichen;character
+probe;check
+kontrolle;check
+abgegebenes gepaeck;checked baggage
+brocken;chunk
+dosenlibelle;circular level
+bauingenieur;civil engineer
+beamter;civil servant
+klemme;clamp
+klassifizierung;classification
+beseitigen;clear to
+abschlussfehler;closure error
+schwerfaellig;clumpsy
+vollgestopft;clutter (up) to
+uebereinstimmen;coincide to
+zielachse;collimation axis
+doppelpunkt;colon
+spalte;column
+gebraeuchlich;common
+ansteckende krankheit;communicable disease
+komparatorkoordinaten;comparator coodinates
+maschinenkoordinaten;comparator coodinates
+kompass;compass
+zirkel;compass
+ergaenzen;complement to
+vervollstaendigen;complement to
+begreifen;comprehend to
+ausfuehrlich;comprehensive
+ausmachen;comprise to
+umfassen;comprise to
+sich befassen;concern to
+befasst sein mit;concerned with to be
+bestaetigen;confirm to
+verwirren;confuse to
+nachdenken ueber;consider to
+betrachten;consider to
+bestehen (aus);consist (of) to
+dauernd;consistently
+fortwaerend;consistently
+beschlussfaehig sein;constitute a quorum to
+baunivillier;construction level
+beratungs-;consulting
+fortwaehrend;continuous
+ununterbrochen;continuous
+zusammenziehung;contraction
+festpunkt;control point
+passpunkt;control point
+verbotene stoffe;controlled substance
+umkehrung;converse
+gegenteil;converse
+kosinus;cosine
+kotangens;cotangent
+schalter;counter
+gutschein;coupon
+verschiebung;crab
+kurbel;crank (handle)
+strichkreuz;cross hairs reticule
+querschnitt;cross section
+querprofil;cross section
+kippachse;crossbar
+bordstein;curb
+lebenslauf;curriculum vitae (cv)
+kruemmung;curvature
+obhut;custody
+zoll;customs
+sommerzeit;daylight saving time
+widmen;dedicate to
+ablenkung (opt. oder mechan.);deflection (am.)      deflexion (brit.)
+liefern;deliver to
+bedeuten;denote to
+kennzeichnen;denote to
+fachbereich;department
+justizministerium;department of justice
+abflug;departure
+abhaengig;dependent
+ableiten;derive from to
+zurueck halten;detain to
+bestimmung;determination
+bestimmen;determine to
+widmen;devote to to
+waehlen;dial to
+stelle;digit
+fernrohrlage i;direct telescope position
+weglassen;disregard
+nicht beachten;disregard
+fernziel;distant target
+unterschied;distinction
+unterscheiden;distinguish to
+unterscheidbar;distinguishable
+zerschlagen und besiegen;divide and conquer to
+abteilung;division
+inlaendischer flug;domestic flight
+libellennivellier mit festem fernrohr;dumpy level
+pflicht;duty
+kante;edge
+hochpunkt;elevated point
+hoehe (ueber bezugsflaeche (nn));elevation
+arbeitnehmer;employee
+arbeitgeber;employer
+befaehigen;enable to
+laengsueberdeckung;end (over)lap
+verstaerkung;enhancement
+gleichung;equation
+tagundnachtgleiche;equinox
+verbesserungs- (fehler-) gleichungen;error equations
+einrichten;establish to
+festlegen;establish to
+schaetzen;estimate to
+schaetzung;estimation
+aetzung;etching
+ueberschreiten;exeed to
+erfahrung;experience
+gutachten;expert opinion
+ausfuhrbescheinigung;export certificate
+belichtung;exposure
+ausdruecken;express to
+fortsetzen;extend to
+ausfuehrlich;extensive
+aussen;exterior
+okular;eyepiece
+merkmal;feature
+faehre;ferry
+rahmenmarken;fiducial marks
+ziffer;figure
+ziellinie;finish line
+fluessigkeit;fluid
+brennweite;focal lenght
+lotfusspunkt;foot point
+fussschraube;foot screws
+zwangszentrierung;forced centering
+vorblick;foresight
+laengsueberdeckung;forward overlap
+bruchzahl;fractional number
+bild;frame
+betrug;fraud
+freie stationierung;free stationing
+einhaengezug;free traverse
+grundlagen;fundamentals
+flugsteig;gate
+geodaetische linie;geodesic
+geodaetische koordinaten;geodetic coordinates
+landeskoordinaten;geodetic coordinates
+geodaesie;geodetic surveying
+geopotentielle kote;geopotential number
+erdmessung;global geodesy
+behoerdenangestellter;government employee
+teilung;graduation
+korn;grain
+gewaehren;grant to
+zugriff;grasp
+verstaendnis;grasp
+schwere;gravity
+gitter;grid
+frosch;ground plate
+leiter der forschungsabteilung;head of research
+hoehe;height
+teuflisch;hellacious
+gelten;hold to
+horizont;horizon
+horizontal;horizontal
+bildkoordinaten;image coordinates
+bildbearbeitung;imaging
+neigen;incline to
+beinhalten;include to
+einschliessen;include to
+einblick;insight
+verstaendnis;insight
+versicherung;insurance
+austauschbar;interchangeable
+innere orientierung;interior orientation
+dazwischen liegend;intermediate
+sich vermischen;intermingle to
+praktikum;internship
+vorwaertsschnitt;intersection
+rechnung;invoice
+einbeziehen;involve to
+tagesordnungspunkt;issue
+kursiv gedruckt;italics in
+zusammenfuegen;join to
+verbinden;join to
+taste;key
+tastatur;keyboard
+hilfstastatur;keypad
+laboratorium;lab
+landnutzung;landuse
+quer-abweichung;lateral residual
+spielraum;latitude
+geographische breite;latitude
+spielraum;leeway
+polygonseite;leg of a traverse
+buchstabe;letter
+brief;letter
+nivelliergeraet;level
+libelle;level
+eben;level adj.
+einweisen;line in to
+fluchten;line in to
+strichmikroskop;line microscope
+geographische laenge;longitude
+laengs-abweichung;longitudinal residual
+schleife;loop
+schacht;manhole
+handbuch;manual
+materie;matter
+sitzung;meeting
+laengengrad;meridian
+bodenschatzsuche;mineral exploration
+sich vermischen;mingle to
+widerspruch;misclosure
+falsche angaben;misrepresentation
+mildern;mitigate to
+milderung;mitigation
+modellkoordinaten;model coordiantes
+vermarkung;monumentation
+landesvermessung;national geodetic survey
+navigationsteleskop;navigation sight
+vernachlaessigen;neglect to
+nicht-einwanderer (besucher);nonimigrant
+normalgleichungen;normal equations
+normalenschnitt;normal section
+schreibweise;notation
+schraeg;oblique
+offensichtlich;obvious
+gelegentlich;occasional
+weglassen;omit to
+einseitiger angeschlossener (toter) polygonzug;open traverse
+betriebssystem;operating system
+optische verguetung;optical coating
+optischer strahlengang;optical train
+ordnungszahl;ordinal number
+orientierung;orientation
+ursprung;origin
+entspringen;originate to
+ueberbestimmung;over determination
+abschreiten;pace to
+passpunkt;pass point
+muster;pattern
+verfolgung;persecution
+persoenlich;personal
+personal;personnel
+betreffen;pertain to
+gehoeren;pertain to
+tortendiagramm;pie chart
+pfeiler;pillar
+ebener schnitt;plane section
+vermessungskunde;plane surveying
+schnurlot;plumb bob
+lotlinie;plumb line
+durchschlagen;plunge to
+verfahrensweise;policy
+vieleck;polygon
+polyeder;polyhedron
+stellengesuch;position wanted
+voraus gehen;preceed to
+vorschreiben;prescribe to
+vorherig;previous
+vorangehend;previous
+hauptpunkt;principal point
+weitergehen;proceed to
+verschaffen;procure to
+vorzeigen;produce to
+laengsprofil;profil
+profil;profil
+vorweg;proir
+unterstuetzen;promote to
+foerdern;promote to
+eigenbewegung;proper motion
+behauptung;proposition
+lehrsatz;proposition
+vertagen;prorogue to
+zug;pull
+zweck;purpose
+rahmenmarke;quad (map)
+reichweite;range
+entfernung;range
+fluchtstab;range pole
+lattenrichter;range pole level
+fluchtstabstativ;range pole tripod
+zinssatz;rate
+strahl;ray
+annehmbar;reasonable
+vernuenftig;reasonable
+denken;reasoning
+folgern;reasoning
+beweisfuehrung;reasoning
+empfang;receipt upon
+wahrnehmen;recognize to
+empfehlen;recommend to
+empfehlen;recommend to
+wiederherstellung;recovery
+entzerrung;rectification
+entzerren;rectify to
+beziehen auf;refer to to
+hinweisen auf;refer to to
+anschlusspunkt;reference point
+verstaerken;reinforce to
+relative orientierung;relative orientation
+entlassen;release
+loslassen;release
+relief;relief
+hoehengliederung;relief
+fernerkundung;remote sensing
+ersuchen;request to
+forderung;requirement
+anforderung;requirement
+erfordernis;requirement
+rueckwaertsschnitt;resection
+aufloesung;resolution
+beschluss;resolution
+reagieren;respond to
+antworten;respond to
+wiederherstellung;restoration
+zusammenfassung;r�sum�
+strichkreuzplatte;reticule
+fernrohrlage ii;reverse telescope position
+rechter winkel;right angle
+rektasczension;right ascension
+zeile;row
+lineal;ruler
+lauflaengenkodierung;run lenght encoding
+durchhang;sag
+verkaufsleiter;sales manager
+befriedigen;satisfy to
+genuegen;satisfy to
+erfuellen (eine bedingung-);satisfy to
+skalenmikroskop;scale microscope
+uebersicht;scheme
+schema;scheme
+wissenschaftlich;scientific
+sekretaer;secretary
+sicherheit;security
+sickern;seep to
+einteilung (in bereiche);segmentation
+segmentierung;segmentation
+unabhaengig;self-contained
+strafe;sentence
+urteil;sentence
+satz;set
+verschieben;shift to
+stenographie;shorthand
+kurzschrift;shorthand
+verschluss;shutter
+querueberdeckung;side (over)lap
+sinus;sine
+buchse;sleeve
+hang;slope
+boeschung;slope
+neigung;slope
+glaetten;smooth to
+verschonen;spare to
+raeumlich;spatial
+kugel;sphere
+belegschaft;staff
+ausstecken;staking
+stuetze;standard
+kalibrierung;standardization
+eichung;standardization
+heften;staple to
+briefpapier;stationary
+stereoauswertegeraet;stereoplotter
+lagerung;storage
+speicherung;storage
+unkompliziert;straightforward
+direkt;straightforward
+ausreichend;sufficient
+geeignet;suitable
+summenprobe;sum check
+ueberfluessig;superfluous
+unnoetig;superfluous
+ueberwachen;supervise to
+zusaetzlich;supplemental
+oberflaeche;surface
+messgehilfe;surveying aid
+aufhaengen;suspend to
+aufhaengung;suspension
+massschneidern;tailor to
+tangens;tangent
+aufgabe;task
+fernrohrlage 1;telescope position direct
+fernrohrlage 2;telescope position reverse
+begriff;term
+gelaende;terrain
+einbindeverfahren;tie-in methode
+neigen;tilt to
+libellennivellier mit kippschraube;tilting level
+giftig;toxic
+ueberweisen;transfer to
+polgonzug;traverse
+polygonierung;traversing
+dreifuss;tribrack tribrach
+stativ;tripod
+roehrenlibelle;tubular level
+abgeben;turn in to
+schreibkraft;typist
+einstimmig;unanimously
+einheit;unit
+ungelernte arbeitskraft;unskilled worker
+benutzen;utilize to
+frei;vacant
+verfuegbar;vacant
+gueltig;valid
+fruehlingspunkt;vernal
+fruehlingsaequinoktium;vernal equinox
+nonius;vernier
+scheitelpunkt;vertex vertices
+stuetzpunkt;vertex vertices
+eckpunkt (eines dreiecks);vertex vertices
+vertikal;vertical
+wechselfaelle;vicissitudes
+unwaegbarkeiten;vicissitudes
+sucher;viewfinder
+verzichtserklaerung;waiver
+streifenabstand;width-height ratio
+zurueck halten;withhold to
+liefern;yield to
+hochachtungsvoll;yours faithfully yours truly
+aaa-anwendungsschema;aaa-application schemata
+aaa-basisschema;aaa-basic schemata
+aaa-fachschema;aaa-branch schemata
+aarhus-konvention;aarhus convention
+abbildender laserscanner;imaging laser scanner
+abbildung;projection
+abbildungsflaeche;areas covered by a projection
+abbildungsgleichung;projection equation
+abbildungsmassstab;projection scale
+abfrage;query
+abfrage mittels beispielen;query by example
+backbone-konzept;backbone concept
+bahnbestimmung;determination of orbit
+ballistische photogrammetrie;ballistic photogrammetry
+bandbreite;band width
+bandgeraet;tape drive
+bandkartogramm;band cartogram
+bandlaufwerk;band drive
+bandsequentielles format;band sequential format
+bandweite;bandwidth
+basis;base
+basisattribut;base attribute
+basiskarte;base map
+basislinie;base line
+basisschema;basic schema
+basisstation;access point
+basisverhaeltnis;base ratio
+bathymetrische karte;bathymetric chart
+baublock;block of buildings
+baudrate;baud rate
+bauflaeche;building area
+baugebiet;built up area of particular character
+baugrenze;building limit
+baulandumlegung;consolidation in building areas
+bauleitplanung;master planning
+baum;tree
+baumassenzahl;structural volume index
+baumkataster;tree cadaster
+baum topologie;tree topology
+bearbeiten;edit
+bebauungsplan;development plan
+bedingte delaunay-triangulation;constrained delaunay triangulation
+ermoeglichen;enable
+befehl;instruction
+befehlssatz;instruction set
+befliegung;aerial flight
+befliegungsuebersicht;flight survey
+beginn der operationellen verfuegbarkeit;initial operational capability
+begriffliches generalisieren;generalisation of terms
+beikarte;inset
+beleg;document
+belegleser;document scanner
+benutzerfuehrung;user guidance
+benutzerrechte;user rights
+benutzerschnittstelle;user interface
+benutzerverwaltung;user administration
+benutzerzentriertes rechnen;user centered computing
+benutzungsoberflaeche;human interface
+beobachter;operator observer
+beobachtung;observation
+beobachtungspunkt;vista point
+beobachtungswinkel;observation angle
+beobachtungszeitraum;observing session
+berater;consultant
+bereich;range
+bereitschaftszeichen;prompt
+bericht;report
+berichtigung;revision
+beruehrend;contiguous
+besitzstands- und schaetzungsnachweis;files containing surfaces and values of lots
+besitzstandskarte;land ownership map
+besondere vertragsbedingungen fuer die beschaffung von dv-leistungen;bvb
+bestandsdaten;(geographic) data in primary database
+bestaetigung;confirmation
+beste wege;best path
+bester linearer unverzerrter schaetzer;best linear unbiased estimate
+bester standort;best place
+bestrahlungswinkel;illumination angle
+beteiligter;participant
+betrachter;viewer
+betriebliche umweltinformationssysteme;business environmental information systems
+betriebsbereit;stand-by
+betriebsdatenerfassung;facility data capture
+betriebs-informationssystem;facility information system
+betriebsmittel;facilities
+betriebsmittelinformationssystem;facility information system
+betriebsmittelmanagement;facility management
+betriebssystem;operating system
+bevoelkerungsdichte;population density
+bewegungssignaturen;flow signature
+bewertungsmodell;evaluation model
+bewertungsverfahren;evaluation method
+beziehen;relate
+beziehung;relationship
+beziehung;relation
+beziehungsgrad;relationship grade
+beziehungsmenge;relation set
+beziehungstyp;relationship type
+b�zierflaeche;b�zier surface
+b�zierkurve;b�zier curve
+bezugsebene;reference plane
+bezugsellipsoid;reference ellipsoid
+bezugsflaeche;reference surface
+bezugspunkt;reference point
+bezugssystem;reference system datum
+bibliothek;library
+bidirektional;bi directional
+bild;imagery
+bild;image
+bildachsen;image axes
+bildanalyse;image analysis
+bildatlas;pictorial atlas
+bildaufnahme;image data acquisition
+bildblock;image block
+bildebene;image plane
+bildelement;pixel
+bildentzerrung und -restaurierung;image rectification and restoration
+bildflug;aerial flight
+bildflugsensorik;aerial flight sensor
+bildflugzeug;aerial plane
+bildgliederung;image segmentation
+bildhauptpunkt;image focal point
+bildinformation;image information
+bildinterpretation;image interpretation
+bildkarte;image map
+bildkarte;photomap
+bildkontrast;image contrast
+bildkoordinaten;image coordinates
+bildkoordinatensystem;image coordinate system
+bildmarken;image fiducials
+bildmassstab;image scale
+bildmaterial;image material
+bildmatrix;image matrix
+bildmessung;image measurement
+bildneigung;image declination
+bildpaar;image pair
+bildparallaxen;image parallaxes
+bildplan;image sketch
+bildplatte;image storage
+bildpunkt;image point
+bildraum;image space
+bildrestaurierung;image restoration
+bildscanner;image scanner
+bildschirm;monitor
+bildschirm;display
+bildschirmarbeitsplatz;terminal
+bildschirmaufloesung;monitor resolution
+bildschirmdiagonale;monitor diagonal
+bildschirmschoner;screen saver
+bildstreifen;image stripes
+bildtraeger;image carrier
+bildtransformation;image transformation
+bildtrennung;image separation
+bildtriangulation;image triangulation
+bildtriangulation mit buendeln;image triangulation by bundles
+bildtriangulation mit unabhaengigen modellen;image triangulation with independend models
+bildueberdeckung;image overlapping
+bildverarbeitung;image processing
+bildverbaende;image mosaik
+bildverbesserung;image enhancement
+bildverstaerkung;image enhancement
+bildverzeichnung;image distortion
+bildwanderung;image motion
+bildwanderungskompensation;image motion compensation
+bildwandlung;image conversion
+bildwiederholfrequenz;image repeat frequency
+bildzuordnung;image matching
+bilineare interpolation;bilinear interpolation
+binaer;binary
+binaerbild;binary image
+binaere anwendungsschnittstelle;abi
+binaere arithmetik;binary arithmetics
+binaere maskierung;binary masking
+binaeres grosses datenobjekt;binary large object
+binarisierung;binarisation
+binaerwert;binary value
+biotop;biotope
+biotopkataster;biotope cadaster
+biotoptypen und nutzungstypen;biotope types and land use types
+biotoptypenkataster;biotope types inventory
+bitdarstellung;bitmap
+bit-ebene;bit plane
+bitfeld;bitfield
+bitrate;bitrate
+bits pro inch;bits per inch
+bivariate interpolation;bivariate interpolation
+blattecken;sheet corners
+blatteckenwerte;sheet corner values
+blatteinteilung;division into sheets
+blattflaechenindex;leaf area index
+blattname;sheet name
+blattnummer;sheet number
+blattrand;map sheet border
+blattschnittecken;map sheet corners
+blattschnittfreie datenbank;seamless data base
+blattschnittfreie speicherung;map sheet free storage
+blattschnittlinien;map sheet lines
+blattschnittorientierte speicherung;map sheet oriented storage
+blattuebersicht;map sheet overview
+blindes digitalisieren;blind digitising
+blitzspeicher;flash memory
+block;block
+blockbild;block diagram
+blockdiagramm;block diagram
+blocktriangulation;block triangulation
+blog;blog
+boden;soil
+boden;ground
+bodenbewuchs;vegetation
+boden-informationssystem;soil information system
+bodenordnung;urban land systems
+bodenordnung;land organization
+bodenordnung;land regulation
+bodenpolitik;land policy
+bodenpreis;land price
+bodenpreisindex;real estate price index
+bodenpreiskarte;real estate price map
+bodenschaetzung;land classification for valuation purposes
+bodensegment;ground segment
+bodenwert;land value
+bodenwert;soil value
+bogen;arc
+bogen-knoten-struktur;arc-node structure
+bogenmass;radiant
+bogenschnitt;intersection
+boolesche algebra;boolean algebra
+boolesche operatoren;boolean operators
+boolescher ausdruck;boolean expression
+boeschung;slope
+boeschungsmassstab;slope diagram
+boeschungsschraffen;slope hachures
+boeschungsschummerung;vertical hill shading
+boeschungswinkel;angle of slope
+branchenloesung;branch solution
+brandmauer;firewall
+brechung;refraction
+brechungsindex;refraction index
+breitbandkabelverteilnetz;wide band cable network
+breitbanduebertragung;wide band distribution
+breitengrad;latitude
+breitengrad;latitude
+breitenkreise;parallel of latitude
+brennweite;focal length
+broschuere;booklet
+bruecke;bridge
+bruecke;bridge
+bubble-jet-drucker;bubble-jet-printer
+bubble-jet-verfahren;bubble-jet-procedure
+buffer;buffer
+bundesinformationssystems strasse;bisstra
+buntheit und saettigung;saturation
+buntton;hue
+bus-taktfrequenz;bus frequency rate
+busverbindung fuer zusatzgeraete;pci-bus
+cad-kartographie;cad cartography
+cad-system;cad system
+chorochromatische karte;chorochromatic map
+chorographische karte;chorographic map
+client-server-architektur;client-server-architecture
+cluster-analyse;cluster analysis
+computergestuetzte kartographie;computer-aided cartography
+computergraphik;computer graphics
+computertest;benchmark
+contentmanagement;content management
+darstellungsprimitive;representation primitive
+darstellungsschicht;representation layer
+datei;file
+dateiattribut;file attribute
+dateierweiterung;file extension
+dateiformat;file format
+dateigroesse;file size
+dateiname;file name
+dateinamenserweiterung;suffix
+dateisystem;file system
+dateitransfer;file transfer
+dateitransferprotokoll;file transfer protocol
+dateiuebertragung;file transfer
+dateiverknuepfung;file link
+dateiverwaltung;file management
+dateiverzeichnis;file directory
+dateizuordnungstabelle;file allocation table
+dateizuordnungstabelle;file allocation table
+daten;data
+daten der inneren orientierung der messkamera;inner orientation data for a camera
+daten der inneren orientierung des messbildes;inner orientation data for an image
+datenaggregation;data aggregation
+datenaktualisierung;data updating
+datenanalysemodelle;data analysis models
+datenaufbereitung;data preparation
+datenaustausch;data exchange
+datenaustauschformat;data exchange format
+datenautobahn;data highway
+datenbank;database
+datenbank-administrator;data base administrator
+datenbank-managementsystem;database management system
+datenbank-schema;database schemata
+datenbanksicherheit;database security
+datenbanksicht;data base view
+datenbanksystem;database system
+datenbankwerkzeuge;database tools
+datenblock;data block
+datenbus;data bus
+datendefinition;data definition
+datendefinitionssprache;data definition language
+datendurchsatz;data throughput
+dateneingabe;data input
+datenerfassung;data capture
+datenerfassungsgeraet;data capture device
+datenfeld;data field
+datenfernuebertragungs-netzwerk;dfue-netzwerk
+datenfernverarbeitung;remote data processing
+datenfluss;data flow
+datenformat;data format
+datenhandschuh;data glove
+datenintegration;data integration
+datenintegritaet;data integrity
+datenkatalog;data catalogue
+datenklassifikation;data classification
+datenkommunikation;data communication
+datenkomprimierung;data compression
+datenkonsistenz;data consistency
+datenkonversion;data conversion
+datenmanipulation;data manipulation
+datenmarkt;data mart
+datenmigration;data migration
+datenmodell;data model
+datennachricht;data message
+datenpaket;data package
+datenqualitaet;data quality
+datenreduktion;data reduction
+datensammlung;data collection
+datensatz;record
+datenschnittstelle;data interface
+datenschutz;data privacy
+datenserver;file server
+datenservice;data service
+datensicherheit;data security
+datensicherung;backup
+datenstruktur;data structure
+datentraeger;data carrier
+datentransfer;data transfer
+datentransferrate;file transfer rate
+datentyp;data type
+datenuebertragung;data transfer
+datenumwandlung;data conversion
+datenunabhaengigkeit;data independency
+datenuntersuchung;data mining
+datenverarbeitung;data processing
+datenverbund;data union
+datenverifikation;data verification
+datenverknuepfung;data link
+datenvermittlung;data transfer
+datenwarenhaus;data warehouse
+datenwoerterbuch;data dictionary
+datum;datum
+daumennagel;thumbnail
+defragmentierung;defragmentation
+demoversion;demo version
+deregulierung;deregulation
+deskriptive statistik;descriptive statistics
+deskriptoren;descriptor
+desktop mapping;desktop mapping
+detektor der fernerkundung;remote sensing detector
+deutsche grundkarte;basic map of germany 1
+deutscher verband fuer facility management e.v.;gefma
+deutsches network information center;denic
+dezibel;decibel
+dezimalsystem;decimal system
+diagramm;diagram
+diagramme fuer einzelwerte;diagrams for single values
+diagrammkarte;diagram map
+diagrammsignatur;point diagram
+dialogbox;dialog box
+dialogverarbeitung;dialog processing
+dienst;service
+dienst fuer nachrichten mit bildern und toenen;mms
+dienstbarkeit;easement
+dienstbarkeit;legal servitude
+diensteanbieter;content provider
+dienstprogramme;utilities
+dienstzugangspunkt;entry point
+differenzialentzerrung;differential rectification
+differenzialentzerrungsgeraet;differential rectification device
+differenzielle positionierung;differential positioning
+differenz-update;differential update
+diffuse reflexion;diffus reflexion
+digital;digital
+digital/analog-wandlung;digital/analogue conversion
+digitale bildkorrelation;digital image correlation
+digitale bildmessung;digital image measurements
+digitale bildtransformation;digital image transformation
+digitale bildverarbeitung;digital image processing
+digitale bildzuordnung;digital image matching
+digitale daten;digital data
+digitale flurkarte;dfk
+digitale karte;digital map
+digitale kartierung;digital mapping
+digitale katastralmappe;digital cadaster map
+digitale regionalkarte hamburg;digital regional map of hamburg
+digitale signatur;digital signature
+digitale stadtgrundkarte;digital city base map
+digitale stadtgrundkarte hamburg;digital city base map of hamburg
+digitale stadtkarte hamburg;digital base map of hamburg
+digitale stadtplaene;digital city maps
+digitale stadtuebersichtskarte;digital city overview maps
+digitaler stereoplotter;digital stereo plotter
+digitales austauschformat;digital exchange format
+digitales bild;digital image
+digitales gelaendemodell;digital terrain model
+digitales gelaendemodell;digital terrain model
+digitales hoehenmodell;digital elevation model
+digitales hoehenmodell;digital elevation model
+digitales kartographisches modell;digital cartographic model
+digitales lagemodell;digital situation model
+digitales landschaftsmodell;digital landscape model
+digitales oberflaechenmodell;digital surface model
+digitales photogrammetrisches bildverarbeitungssystem;digital photogrammetric image processing system
+digitales situationsmodell;digital situation model
+digitalisieren;digitising
+digitalisierlupe;digitising microscope
+digitalisierung;digitizing
+digitalzahl;digital number
+dijkstra-algorithmus;dijkstra algorithm
+dimension;dimension
+direkte beobachtung;direct observation
+direkte entzerrung;direct method of rectification
+direkte position;direct position
+direkteinspeisung;direct infiltration
+diskette;floppy
+disketten-laufwerke;disk storage device
+diskreta;discrete objects
+diskrete daten;discrete data
+diskretisierung;discretisation
+diskussionspapier;discussion paper
+dispersion;dispersion
+distanzbereiche;distance buffer
+dokument;document
+dokumentation;documentation
+dokumentationssystem;documentation system
+dokumentenmanagementsystem;document management system
+domaene;domain
+domaene;domain
+domaenennamensdienst;domain naming service
+doppelclick;double click
+doppelte genauigkeit;double precision
+dorferneuerung;inprovement of village sites
+douglas-peucker algorithmus;douglas-peucker algorithm
+drahtloses lokales netzwerk;wlan
+drahtmodell;wireframe model
+drahtmodellrepraesentation;wireframe representation
+dram;dynamic random access memory
+drehbuch;storyboard
+drehung;rotation
+dreidimensional;three-dimensional
+dreidimensionale geodaesie;three-dimensional geodesy
+dreidimensionales datum;three-dimensional datum
+dreiebenen-hierarchie;three tier hierarchy
+dreieck;triangle
+dreiecksmessung;triangular measurements
+dreiecksnetz;network of triangles
+dreiecksnetz;tin
+dreieckspunkt;triangle point
+dreiecksvermaschung;triangulated irregular network
+dreischemata-modell;three schemata model
+drift;drift
+driver;treiber
+druckaufbereitung;print preparation
+drucker;printer
+druckersprache;printer language
+duales zahlensystem;binary digit system
+duennfilm-transistor;tft
+duplex-betrieb;duplex processing
+dynamische digitalisierung;stream digitising
+dynamische karte;dynamic maps
+dynamischer modus;stream mode
+dynamisches binden;dynamic binding
+easting;rechtswert
+ebene;plane
+ebene;layer
+ebene abbildung;planar projection
+ebene koordinaten;plane coordinates
+ebenenprinzip;layer principle
+ebenentechnik;layer technique
+ebenes koordinatensystem;plane-coordinate system
+echtfarbbild;true color image
+echtfarbdarstellung;true color representation
+echtzeit;real time
+echtzeitansatz;real-time approach
+echtzeitdienst;real time service
+echtzeit-digitizer-karte;fram frame-grabber
+echtzeitsystem;real time system
+echtzeitverfahren mit kartenueberlagerung;reai-time approach with map-overlay
+eigentum;property
+eigentumsgrenze;property boundary
+einbettung;embedding
+einbildmessung;mono image measurements
+einbildphotogrammetrie;mono photogrammetry
+einbindeverfahren;intersection approach
+eindeutige abbildung;unique projection
+eindimensionales datum;one dimensional datum
+eindringtiefe;depth of penetration
+einfache genauigkeit;single-precision
+eingabebild;input image
+eingabedaten;input data
+eingabeeinheit;input unit
+eingabegeraet;input device
+eingabetechnik;input technique
+eingebettetes dokument;embedded document
+einheitensystem;unit system
+einkapselung;encapsulation
+einlagenkarte;plan of previous situation
+einleitung eines verfahrens;opening of a procedure
+einmessungsskizze;description of position of mark
+einpassen;fitting in
+einpassung;fitting
+einschneiden;intersection
+einseitig angeschlossener polygonzug;traverse tied at one end
+einstufige orientierung eines bildpaares;orientation of an image pair in one step
+einszelle;one cell
+eintauchen;immersion
+eintrag;item
+einwahl;dialup
+einzelbeobachtung;single observation
+einzelbildorientierung;spatial intersection
+einzelplan;single plan
+einzelpunkteinschaltung;single point intersection
+einzugsgebiet;catchment area
+elektrische betriebsmittel;electric facilities
+elektromagnetische energie;electro-magnetic energy
+elektromagnetisches spektrum;electro-magnetic spectrum
+elektronisch;electronic
+elektronische entfernungsmessung;electronic distance measurement
+elektronische konferenz;electronic conference
+elektronische medien;electronic media
+elektronische post;electronic mail
+elektronische verwaltung;electronic government
+elektronischer distanzmesser;electronic distance measurement
+elektronischer geschaeftsverkehr;electronic business
+elektronischer handel;e-commerce
+elektronischer markt;electronic market place
+elektronisches geld;electronic money
+elektronisches lernen;e-learning
+elektronisches publizieren;electronic publishing
+elektronisches tachymeter;electronic tacheometer
+elektrooptische entfernungsmessung;electro-optical distance measurement
+elektrooptischer distanzmesser;electro-optic distance measuring device
+elektrostatischer plotter;electrostatic plotter
+element;element
+elementnummer;element-id
+elementstruktur;element structure
+ellipsoid;ellipsoid
+ellipsoidische breite;ellipsoidical width
+ellipsoidische hoehe;ellipsoidical height
+ellipsoidische laenge;ellipsoidical length
+ellipsoidnormale;ellipsoidic normal
+emission;emission
+empfaengerkanal;receiver channel
+endlicher graph;finite graph
+endmassstab;reproduction scale
+endonym;endonym
+entfernen verdeckter linien;hidden line removal
+entitaet;entity
+entitaetenintegritaet;entity integrity
+entitaeten-relationenmodell;entity relationship model
+entitaetsklasse;entity class
+entitaetsklasse;entity class
+entitaetstyp;entity type
+entscheidungsmatrix;decision matrix
+entscheidungsphase;decision phase
+entscheidungsunterstuetzungssysteme;decision support systems
+entschluesselung;decoding
+entwaesserungssystem;sewage system
+entwicklungsplan;development project
+entwurf;design
+entwurf;draft
+entwurfsunterlagen;design data
+entzerrtes bild;distorted imagery
+entzerrtes einzelbild;distorted mono imagery
+entzerrung;rectification
+enumerationsbezirk;enumeration district
+enumerationsverfahren;enumeration method
+ephemeriden;ephemeris
+epoche;epoch
+erddimensionen;dimensions of the earth
+erdellipsoid;earth-ellipsoid
+erdkarte;earth map
+erdkugel;terrestrial sphere
+erdmassenberechnung;mass calculation for earthworks
+erdmessung;higher geodesy
+erdoberflaeche;surface of the earth
+erdrotation;rotation of the earth
+erdsatellit;earth satellite
+erdteilkarte;continental map
+ergebnis der qualitaetsmessung;results of quality measurements
+ergebnis einer polygonabfrage;polygonretrieval
+erkundung;field reconnaissance
+erkundungsblatt;field reconnaissance sheet
+erkundungsmessungen;reconnaissance surveys
+erosion;erosion
+ertragskarte;yield map
+ertragsklasse;yield class
+ertragsmessgeraete;yield-meter
+erwartungswert;expectation value
+erweiterte realitaet;augmented reality
+eugises;european gis education seminar
+euklidischer abstand;euclidean distance
+euklidsche geometrie;euclidean geometry
+europaeische geodateninfrastruktur;european spatial data infrastructure
+europaeische norm;european norm
+europaeische umweltinformations- und beobachtungsnetzwerk;eionet
+europaeische vornorm;european prestandard
+eurosdr;european spatial data research
+evaluation;evaluation
+evaluationsmodell;evaluation model
+exakter interpolator;exact interpolator
+exonym;exonym
+experimentelles variogramm;experimental variogram
+expertensystem;expert system
+exposition;aspect
+extinktion;extinction
+extranet;extranet
+extrapolation;extrapolation
+fachdaten;thematic data
+fachinformationssystem;branch information system
+fachplanung;sector planning
+fachschale;application module
+fadenkreuz;cursor
+falschfarben;false color
+faltung;convolution
+fangradius;snap distance
+fangraster;snap raster
+farbaufnahme;colour photograph
+farbbild;colour image
+farbbildschirm;colour display
+farbcodierung;colour coding
+farbe;colour
+farbenphotographie;colour photography
+farbfilm;colour film
+farbinfrarotbild;colour infrared image
+farbmanagementsystem;color management system
+farbmischung;colour mixing
+farbmodell;colour model
+farb-negativ-bild;colour negative
+farbpalette;colour palette
+farb-positiv-bild;colour positive
+farbraum;color space
+farbreduktion;colour reduction
+farbseparation;color separation
+farbskala;colour wedge
+farbstufen;colour steps
+farbsystem;colour system
+farbtabelle;lookup-table (lut)
+farbtiefe;colour depth
+farbton;colour tone
+faerbung;hue
+favoriten;bookmarks
+fehler;error
+fehlerfortpflanzung;error propagation
+fehlergrenze fuer die darstellung der gelaendeoberflaeche durch hoehenlinien;error limit for the representation of the relief by means of contours
+fehlermeldung;error message
+fehlerschranke;error tolerance
+fehlertolerante systeme;error tolerant system
+feinkonzept;detailed concept
+feld;array
+feld;field
+feldarbeiten;field work
+feldbuch;field notebook
+felddaten;ground truth
+felderkundung;reconnaissance
+feldmessung;reconnaissance survey
+feldriss;field document
+feldriss;field sheet
+feldroboter;field roboter
+feldskizze;field sketch
+feldvergleich;field comparison
+feldvergleich;field check
+felsschraffen;rock hachures
+felszeichnung;rock drawing
+fenster;windows
+fenstersystem;windowsysteme
+fenstertechnik;windows technique
+ferneinwahl;remote login
+fernerkundung;remote sensing
+fernerkundungsdaten;remotely sensed data
+fernerkundungssensoren;remote sensing sensors
+fernerkundungsverfahren;remote sensing procedures
+fernstudienmaterialien geoinformatik;fergi
+fernunterricht;teletaching
+fernzugriff;remote access
+festkommazahl;integer
+festnetz;fixed network
+festplatte;hard disk
+festplattencontroller;disc controller
+festplattenspiegelung;disk mirroring
+festpunkt;control point
+festpunktbeschreibung;control station description
+festpunktfeld;network of control stations
+festpunktkartei;control data sheet
+festpunktkartei;geodetic data sheet
+festpunktuebersicht;control point overview
+festpunktverdichtung;densification of survey control stations
+festspeicher;hard disc
+filter-operation;filter operation
+filterung;filtering
+finite-elemente-modellierung;finite element modeling
+flachbettplotter;flatbed plotter
+flachbettscanner;flatbed scanner
+flachbildschirm;flatbed screen
+flaeche;area
+flaechenberechnung;area calculation
+flaechenkartogramm-methode;choropleth mapping
+flaechenmodell;surface model
+flaechennetz;surface network
+flaechennivellement;grid levelling
+flaechennutzungsplan;zoning plan
+flaechenpool;area pool
+flaechenpunkt;centroid
+flaechenschwerpunkt;centroid point
+flaechensignaturen;area signature
+flaechentreue abbildung;equivalent projection
+flaechenverschneidung;polygon overlay
+flaechenverzerrung;area distortion
+fliesskommadarstellung;floating point representation
+flottenmanagement;fleet management
+fluechten;esc
+fluechtige speicher;random storage
+flugbahn;flight track
+flughoehe;flying height
+flugweg ueber grund;ground track
+flugweg ueber grund;flight line above ground
+flugzeugscanner;airborne scanner
+flugzeug-seitensichtradar;side-looking airborne radar
+flur;cadastral subfdistrict
+flurbereinigung;land consolidation
+flurbereinigung;remembrement
+flurbereinigung;land redistribution
+flurbereinigungsplan;land consolidation documentation
+flurbereinigungsverfahren;land consolidation procedure
+flurkarte;cadastral plan
+flurkarte;property map
+flurstueck;parcel
+flurstuecksgrenze;parcel boundary
+flurstuecksverzeichnis;parcel directory
+flussdiagramm;flow chart
+flussdiagramm;flowchart
+fluessigkristallanzeige;liquid cristal display
+folie;layer
+format;format
+formatieren;formatting
+formenplastik;relief plastic
+formlinien;form lines
+formzeichen;form signature
+forstbetriebskarte;forestry organisation maps
+forstwirtschaft;forestry economy
+forstwirtschaftsplan;forestry development plan
+fortfuehrung von topographischen karten;revision of topographic maps
+fortfuehrungssatz;update set
+fortfuehrungsturnus;revision cycle
+fortfuehrungsvorlage;update draft
+fortlaufend;sequentiell
+fourieranalyse;fourier analysis
+fragmentierung;fragmentation
+fraktale;fractal
+fraktale dimension;fractal dimension
+fraktale kompression;fractal compression
+freies generalisieren;free generalisation
+freigabe;release
+freihandskizze;freehand sketch
+frequenz;frequency
+frequenzband;waveband
+frequenzbereich;frequency range
+frequenzdiagramm;frequency diagram
+frequenzmodulation;frequency modulation
+fuehrungsinformationssystem;information system for higher management
+fuehrungssystem;guidance system
+fundamentalpunkt;fundamental station
+funknetzplanung;mobile net planning
+funktion;function
+funktionsverbund;functional union
+fusion;fusion
+gammakorrektur;gamma correction
+gauss-krueger-koordinaten;gauss-krueger coordinates
+gauss-krueger-projektion;gauss-krueger projection
+gausssche konforme abbildung;gaussian conformal projection
+ortsverzeichnis;gazetteer
+gebaeude;building
+gebaeudebeschreibung;property description
+gebaeudebeschreibung;descriptive schedule
+gebaeudeinformation;building information
+gebaeude-informationssystem;building information system
+gebaeudemanagement;building management
+gebiet;zone
+gebiet;area
+gebiet;district
+gebietsgliederung;census tracts
+gebietsinformation;regional information
+gebrauchsfaehigkeit;usability
+gebuendelt;bundled
+gefaelle;slope
+gefaelle;incline
+gefaelle;falling gradient
+gefaellinie;slope line
+gefaellknick;break of slope
+gefaellknick;break in slope
+gefaellmesser;clinometer
+gefuehrter rundgang;guided tour
+gegenseitige orientierung;relative orientation
+gegenstrahlung;atmospheric radiation
+gelaendeaufnahme;terrain survey
+gelaendebedeckung;topographic features
+gelaendebeobachtungen;ground truth
+gelaendedarstellung;terrain representation
+gelaendeformen;land forms
+gelaendeformen;relief features
+gelaendeformendarstellung;representation of the shape of the ground
+gelaendehoehe;terrain height
+gelaendekante;terrain edge
+gelaendekroki;sketch of terrain
+gelaendekunde;terrain description
+gelaendelinien;terrain lines
+gelaendemodell;terrain model
+gelaendemodell;relief model
+gelaendepunkte;terrain points
+gelaendeschummerung;hillshading
+gelaendeskizze;sketch of a panorama
+geltungsbereich;allowed range
+gemarkung;bounds
+gemeindegebiet;community area
+gemeindeverzeichnis;community directory
+gemittelte daten;compacted data
+genauigkeit;accuracy
+genauigkeit der grundriss- und hoehendarstellung;accuracy of ground and height representation
+genauigkeit der zeitangaben;accuracy of time representation
+generalisieren;generalization
+generalisierung;generalisation
+generatorprogramm;generator program
+generierung;generating
+generisch;generic
+geobasisdaten;spatial base data
+geobasisinformationen;spatial base information
+geodaesie;geodesy
+geodaten;spatial data
+geodateninfrastruktur;geodata infrastructure
+geodateninfrastruktur;spatial data infrastructure
+geodateninfrastruktur nordrhein-westfalen;gdi-nrw
+geodatenkatalog;spatial data catalogue
+geodatenmanagement;geodata management
+geodatenmarktteilnehmer;geodata market member
+geodatenpreisbildung;geodata pricing
+geodatensatz;geodata set
+geodatenserver;geo data server
+geodatenserver-datenbank;geodata server database
+geodatenwarenhaus;spatial data warehouse
+geodaetische abbildung;geodetic projection
+geodaetische breite;geodetic latitude
+geodaetische hauptaufgaben;direct and inverse position computation
+geodaetische koordinaten;geodetic coordinates
+geodaetische laenge;geodetic length
+geodaetische parallelkoordinaten;geodetic parallel coordinates
+geodaetische polarkoordinaten;geodetic polar coordinates
+geodaetisches bezugssystem;geodetic reference system
+geodaetisches datum;geodetic datum
+geodaetisches ellipsoid;geodetic ellipsoid
+geodetic survey network;geodaetisches netz
+geofachdaten;spatial thematic data
+geofaktoren;geographic factors
+geographie;geography
+geographische breite;geographic(al) latitude
+geographische daten;geographic data
+geographische datenbank;geographic data base
+geographische koordinaten;geographic(al) coordinates
+geographische laenge;geographic(al) longitude
+geographische visualisierung;geographic visualisation
+geographische zugriffsrechte;spatial access rights
+geographischer identifikator;spatial identificator
+geographisches identifikationssystem;spatial identification system
+geographisches informationssystem;geographical information system
+geographisches informationssystem umwelt;geosum
+geographisches objekt;geographic feature
+geographisches verzeichnis;geographic directory
+geographisch-nord;true north
+geoid;geoid
+geoidhoehe;geoid height
+geoidmodell;geoid model
+geoidundulation;geoid undulation
+geoinformation;spatial information
+geo-informationssystem;geographic information system
+geokode;geocode
+geokodierung;geocoding
+geologie;geology
+geologische karten;geological maps
+geomarketing;geomarketing
+geomatik;geomatics
+geometer;surveyor
+geometrie;geometry
+geometriedaten;geometric data
+geometrische aufloesung;spatial resolution
+geometrische bildtransformation;geometric image transformation
+geometrische grundform;geometric shape
+geometrische primitive;geometric primitives
+geometrische uebereinstimmung;geometric equality
+geometrisches modell;geometric model
+geometrisches modellieren;geometric modeling
+geometrisches nivellement;direct levelling
+geomorphologie;geomorphology
+geoobjekt;spatial object
+geophysik;geophysics
+geopolitische karten;geopolitical maps
+georeferenzierung;georeferencing
+georeferenzsystem;georeference system
+georelationale konzeption;georelational schema
+geosensornetzwerke;geo sensorn network
+geosphaere;geo sphere
+geostationaer;geostationary
+geostationaerer satellit;geostationary satellite
+geostatistik;geostatistics
+geowissenschaften;earth sciences
+geradenschnitt;intersection
+geraet;device
+geraeteidentifikator;implement indicator
+geraetekoordinate;device coordinate
+gesamtstrahlungstemperatur;total radiation temperature
+geschaeftsgraphik;business graphics
+geschaeftsprozessmodell;business process model
+geschichtskarte;historical map
+geschlossener polygonzug;closed traverse
+geschossflaechenzahl;floor space index
+geschosszahl;number of floors
+geschummerte reliefkarte;shaded relief map
+gesichtsfeld;field of view
+gespeicherte prozeduren;stored procedures
+gewaehrleistung;guarantee
+gewaesser;waters
+gewaesserkarten;hydrographic maps
+gewaesserkataster;hydrographic cadaster
+gewaessernetz;hydrography
+gewaessernetz;net of water courses
+gewaesserpflegeplaene;hydrographic net management plans
+gewaesserstrukturkartierung;hydrographic structural mapping
+gewerbegebiet;area zoned for economic activities
+gewichtetes gleitendes mittel;weighted moving average
+gewichtung;weighting
+gewoehnliche abbildung;oblique projection
+gewoehnliche lage der abbildungsflaeche;oblique position of projection plane
+gitterabweichung;grid deviation
+gitterkoordinaten;grid coordinates
+gitterkreuz;grid intersection
+gitterlinie;grid line
+gitternetz;grid
+gitter-nord;grid north
+gitterquadrate;grid quadrangles
+gitter-referenz;grid reference
+gitterwert;grid value
+gitterzelle;grid cell
+glasfaser;glass fibre
+glasfaserbasierende verkabelung;fibre glass cable
+glaetten;smoothing
+glaettung;weeding
+gleichung;equation
+gleitendes mittel;average mean
+gleitkommazahl;floating point
+gleitkommazahl;floating point
+globales beleuchtungsmodell;global illumination model
+globales dorf;global village
+globales positionierungssystem;global positioning system
+globalstrahlung;solar radiation
+globus;globe
+gnomonische projektion;gnomonic projection
+gon;gon
+gouraud-schattierung;gouraud-shading
+gradabteilungskarte;quadrangle map
+gradation;spectral sensitivity
+gradient;gradient
+gradientenanalyse;gradient analysis
+gradnetz;graticule of a map
+gradnetz;graticule
+gradnetzentwurf;graticule network draft
+gradnetzschablone;graticule template
+graph;graph
+graphentheorie;graph theory
+graphisch bestimmter punkt;point fixed graphically
+graphische benutzeroberflaeche;graphical user interface
+graphische darstellung statistischer auswertungen;graphical representation of statistical evaluations
+graphische datenverarbeitung;graphical data processing
+graphische kartierung;graphic mapping
+graphische primitive;graphic primitives
+graphische semiologie;graphic semiology
+graphischer bildschirm;graphic display
+graphisches kernsystem;graphics kernel system
+grat;crest
+grauschattierung;tone
+graustufen;greyscale
+grauwert;grey value
+grauwertbild;grey value image
+grauwertfilter;grey value filter
+gravitation;gravitation
+greenwich-meridianebene;greenwich meridian plane
+grenzen-kartenzeichen;boundary symbol
+grenzpunkte;parcel border point
+grenzstein;parcel mark
+gridzelle;grid cell
+grosse halbachse;large half axis of an ellipse
+grosskreis;great circle
+grosskreiskarte;great circle chart
+grossmassstaebige karte;large scale map
+gruenanlage;green area
+grundaequidistanz;basic equidistance
+grundfarbe;primary colour
+grundflaechenzahl;site occupancy index
+grundfrequenz;base frequence
+grundkarte;base map
+grundkartenwerk;basic map series
+grundkette;chain
+grundlagenvermessung;basic surveying
+grundmassstab;base scale
+grundnetz;fundamental network
+grundplatine;motherboard
+grundriss;planimetric sketch
+grundrissaufnahme;planimetric survey
+grundrissdarstellung;planimetric representation
+grundrisstreue;topographic planimetry
+grundstuecksbewertung;valuation of rating for parcels
+grundstueckswert;value attributable to real property
+grundstueckswert;value of the land
+grundstueckswertermittlung;parcel value determination
+grundwasser;ground water
+grundwasserinformationssystem;ground water information system
+gruenflaeche;green space
+gruenflaechenkataster;green area cadaster
+gruenland;grassland
+gruenordnungsplan;green area plan
+gruppe;cluster
+gummibandlinie;rubberbanding
+gummieffekt;rubber banding
+habitat;habitat
+habitatmodell;habitat model
+hacken;hacking
+halbautomatisches digitalisieren;semi-automated digitizing
+halbbildverfahren;interlaced method
+halbebenenunterteilung;binary space partitioning
+halbleiterbaustein;chip
+halbton;halftone
+halbtonabbildung;halftone image
+halbtonbild;continuous tone photograph
+handbuch;manual
+handscanner;scanner
+hang;slope
+hangformen;cliff forms
+hangneigung;slope angle
+hardware;hardware
+hardwareschutz;hardware protection
+haeufigkeit;frequency
+haeufigkeitsverteilung;frequency distribution
+hauptdreiecksnetz;first order triangulation network
+hauptdreiecksnetz;primary triangulation net
+haupthoehenlinie;index contour
+haupthoehennetz;first order levelling network
+haupthoehennetz;principal network of heights
+hauptkomponentenanalyse;principal component analysis
+hauptmeridian;prime meridian
+hauptspeicher;main memory
+haupttraegerplatine;motherboard
+hauptverzerrungsrichtungen;principal directions of distortion
+hauptwirtschaftswege;main farm roads
+hausnummer;house number
+hektar;hectare
+heliosynchrone bahn;helio syncron orbit
+helmert-transformation;helmert transformation
+hertz;hertz
+herunterladen;download
+hervorhebung;highlighting
+heterogene netze;heterogeneous nets
+hidden lines algorithmen;hidden lines algorithms
+hierarchie;hierarchy
+hierarchisch;hierarchical
+hierarchische datenbank;hierarchical database
+hierarchische datenbankstruktur;hierarchical database structure
+hierarchische datenstruktur;hierarchical data structure
+hierarchisches datenmodell;hierarchical data model
+hierarchisches modell;hierarchical model
+hilfsdaten;auxiliary data
+hilfshoehenlinie;auxiliary contour
+hilfsmittel;utilities
+hilfsraster;auxiliary raster
+hintergrund;background
+hintergrundprogramm;batch programm
+hintergrundspeicher;background storage
+hintergrundverarbeitung;batch processing
+hintergrundverarbeitung;background processing
+histogramm;histogram
+histogrammspreizung;histogram stretching
+historische karte;archaic map
+historische karte;historic map
+hochfahren;booten
+hochwassergrenze;flood water border
+hochwert;northing
+hoehe;altitude
+hoehe;elevation
+hoehe;height
+hoehe ueber normal null;height above german reference surface
+hoehenaufnahme;altimetric survey
+hoehenaufnahme;contour survey
+hoehenaufnahme;survey of the relief
+hoehenberechnung;computation of height
+hoehendarstellung;representation of relief
+hoehenfehler;error in heighting
+hoehenflurkarte;cadastral map with heights
+hoehenkote;elevation number
+hoehenkurve;height contour
+hoehenlinie unter wasser;submerged contour
+hoehenlinienabstand;horizontal equivalent spacing of contours
+hoehenlinienabstand im grundriss;horizontal equivalent of contours
+hoehenliniendarstellung;representation of contours
+hoehenlinienzahl;contour value
+hoehenmessung;hypsometrie
+hoehennetz;vertical control survey network
+hoehennull;base height level in germany
+hoehenplan;contour map
+hoehenprofil;height profile
+hoehenpunkt;spot height
+hoehenpunkt;spot elevation
+hoehenpunkt in der karte;spot elevation in the map
+hoehenpunkt in der karte;spot height
+hoehenschicht;contour level
+hoehenstufe;contour step
+hoehensystem;system of heights
+hoehensystem;vertical control system
+hoehenunterschied;difference in level
+hoehenunterschied;difference in elevation
+hoehenunterschied;altitude difference
+hoehenwert;height value
+hoehenwinkel;angle of elevation
+hoehenwinkel;vertical angle
+hoehenzahl;spot height
+hoehenzahl;altitude
+hoehenzahl;height above datum
+hoehere programmiersprache;high level language
+homogenisierung;homogenization
+homogenitaet;homogenity
+homologe projektionsstrahlen;homologous projection rays
+homologe strahlen;homologous rays
+horizontalwinkel;horizontal angle
+hybrid;hybrid
+hydrographie;hydrography
+hydrologie;hydrology
+hyper;hyper
+hyperbelnavigation;hyperbolic navigation
+hyperbelnavigationsverfahren;hyperbolic navigation system
+hyperbelstandlinie;hyperbolic line of position
+hypergloben;hyper globes
+hypsometrische kurve;hypsometric contour
+identifizierung;identification
+imagespektometrie;image spectrometry
+import;import
+index;index
+indexsequentielle datei;index sequential file
+indirekte entzerrung;indirect method of rectification
+induktion;induction
+induktive statistik;inductive statistics
+industriestandard;industry standard
+inertialsystem;inertial system
+information;information
+infrarot;infrared
+infrarotaufnahme;infrared image
+infrarotmaterial;infrared material
+infrastruktur;infrastructure
+infrastrukturkataster;register of the infrastructure
+ingenieurvermessung;engineering survey
+inhaltsverzeichnis;table of content
+inhaltsverzeichnis;table of content
+initialisierung;initialisation
+inklination;inclination
+inkrement;increment
+innenflaeche;interior area
+innere orientierung;inner orientation
+innere orientierung der messkamera;inner orientation of a camera
+innere orientierung des messbildes;inner orientation of an image
+inselkarte;map of an isolated region
+inspektion;inspection
+installation;installation
+installationsprogramm;installation programme
+instandhaltung;maintenance
+instandsetzung;reparation
+instanz;instance
+integration;integration
+integrierte multimediasysteme;integrated multi media system
+integrierte software;integrated software
+integritaet;integrity
+intelligente infrastruktur;intelligent infrastructure
+intelligente transportsysteme;intelligent transportation systems
+intelligentes terminal;intelligent terminal
+interaktion;interaction
+interaktionsmodellierung;interaction modeling
+interaktiv;interactive
+interaktive bearbeitung;interactive editing
+interaktiver modus;interactive mode
+interaktives digitalisieren;interactive digitizing
+interaktives graphisches system;interactive graphics system
+interferometrisches sar;insar
+internationale norm;international standard
+internationale weltkarte;international map of the world
+internationale zivile luftfahrtorganisation;icao
+internationales einheitensystem;international unit system
+internationales hydrographisches buero;international hydrographic bureau
+internet;international network
+internet-diensteanbieter;internet service provider
+internet-diskussionsforum fuer geoinformation;internet discussion forum for spatial information
+interoperabilitaet;interoperability
+interpolation;interpolation
+interpolation von hoehenlinien;interpolation of contour lines
+interpolationsverfahren;interpolation procedures
+interpolieren;to interpolate
+interpretationsfaktoren;interpretation elements
+interpretationsgeraet;interpretation device
+interpretationsschluessel;interpretation key
+interpretationsverfahren;interpretation procedure
+interpreter;interpret
+interviews;interviews
+intrinsische hypothese;intrinsic hypothesis
+inverse distanzgewichtung;inverse distance weighting
+ionosphaerische laufzeitverzoegerung;ionospheric time delay
+isarithme;isarithm
+isarithmenkarten;isarithm map
+isobare;isobar
+isobathen;isobaths
+isochronen;isochron
+isodata;iterative self-organizing data analysis technique
+isogone;isogon
+isohypse;isohypsis
+isohypse;contour line
+isolinie;isoline
+isolinie;isogram
+isolinienkarten;isopleth map
+isolinienmethode;isoline method
+isometrie;isometry
+iso-norm;iso standard
+isoplethe;isopleth
+isoplethenkarte;isopleth map
+isotropisch;isotropic
+istanalyse;situation analysis
+istzustand;current situation
+iteration;iteration
+kachel;tile
+kalibrierung;calibration
+kamera;camera
+kamerakalibrierung;camera calibration
+kamerakonstante ca;camera constant
+kammlinie;crest line
+kanal;channel
+kanal;band
+kanalanschlusskataster;sewage cadaster
+kanalisation;sewerage
+kanalverhaeltnisse;band ratios
+kante;edge
+kantenlinie;edge line
+kantenmodell;edge model
+kantenvergleich;edge matching
+kantenverstaerkung;edge enhancement
+kapazitaet;capacity
+kardinal;cardinal
+kardinalitaet;cardinality
+kardinalzahl;cardinal number
+karte;map
+kartenabbildung;map projection
+kartenalgebra;map algebra
+kartenanalysepaket;map analysis package
+kartenanpassung;map matching
+kartenansatz;mapping approach
+kartenarchivierung;map archiving
+kartenausgabe;map output
+kartenausschnitt;map extract
+kartenbestandteile;map parts
+kartenbezugssystem;map reference system
+kartenbezugssystem;map datum
+kartenblatt;map sheet
+kartenblattbezeichnung;sheet designation
+kartenblattname;map sheet name
+kartenblattnummer;map sheet number
+kartendruck;map printing
+karteneinheit;map unit
+kartenentwurf;map draft
+kartenfeld;map surface
+kartengitter;map grid
+kartengrund;topographic base
+karteninterpretation;map interpretation
+kartenlesen;map reading
+kartenmassstab;map scale
+kartenmessung;map measurement
+kartenmontage;map mosaiking
+kartennetz;graticule
+kartennetzberechnung;graticule computation
+kartennetzentwurf;draft of the map projection
+kartennutzung;map usage
+kartenprojektion;map projection
+kartenprojektionslehre;education on map projections
+kartenrahmen;map frame
+kartenrand;map margin
+kartenrandangaben;marginal data
+kartenrelief;plastic relief map
+kartenreproduktion;map reproduction
+kartensammlung;map collection
+kartenschnittlinien;neatlines
+kartenschnittlinien;sheet lines
+kartenschriften;letterings
+kartenserver;map server
+kartensignatur;conventional map signs
+kartensignatur;map symbols
+kartenstil;map style
+kartentechnik;cartographic techniques
+kartenthema;map title
+kartentitel;map title
+kartenurheberrecht;map copyright
+kartenurheberrechtsschutz;map copyright protection
+kartenverwandte darstellung;map equivalent representations
+kartenwerk;map series
+kartenwesen;mapping
+kartenzusammenstellung;composite map
+kartesische koordinaten;cartesian coordinates
+kartesisches koordinatensystem;cartesian coordinate system
+kartiereinheit;mapping unit
+kartieren;mapping
+kartodiagramm;carto diagram
+kartogramm;cartogram
+kartographie;cartography
+kartographische abbildung;map projection
+kartographische anamorphosen;cartographic anamorphisms
+kartographische ausdrucksform;cartographic expression schema
+kartographische darstellung;cartographic representation
+kartographische darstellungsmethoden;methods of cartographic representation
+kartographische generalisierung;cartographic generalisation
+kartographische grundsaetze;cartographic rules
+kartographisches modell;cartographic model
+kartographisches modellieren;cartographic modelling
+kartographisches modellieren;cartographic modelling
+kartometrie;cartometry
+kataster;cadaster
+katasteramt;cadastral office
+katasterbuch;cadastral books
+katasterkarte;cadastral map
+katasterkartenwerk;cadastral map series
+katastervermessung;cadaster surveying
+katastervermessung;cadastral survey
+katasterzahlenwerk;cadaster numbering series
+kathodenstrahlroehre;cathode ray tube
+kathodenstrahlroehre;cathode tube ray
+kathodenstrahlroehre;crt
+kaufpreiskarte;map of land prices
+kaufpreissammlung;collection of land prices
+kavalierperspektive;cavalier perspective
+kegelabbildung;conical projection
+kennung;identification
+kennziffer des meridianstreifens;zone number
+kern;kernel
+kernebenen;focal planes
+kette;chain
+kettencode;chain codes
+kettencode;chain code
+killer-applikation;killer-application
+kilometrierung;kilometre marking
+kinematische positionierung;kinematic positioning
+klasse;class
+klassenbildung;class generation
+klassifikation;classification
+klassifizierung;classification
+klassifizierung der strassen und wege;classification of highways and roads
+kleine halbachse;small half axis
+kleinformen;minor features
+kleinklima;local climate
+kleinkreis;small circle
+kleinmassstaebige karte;small scale map
+kleinste kartiereinheit;minimum mapping unit
+kleinste-quadrate-bildzuordnung;least-squares image matching
+klothoide;clothoid
+knoten;node
+knotenlinie;line of nodes
+knotenvalenz;node valence
+koaxialkabel;coax cable
+kode;code
+kodierung;coding
+kommando;command
+kommandosprache;command language
+kommandozeile;command line
+kommentar;comment
+kommunales informationssystem;municipal information systems
+kommunales umweltinformationssystem;municipal environmental information system
+kommunikation;communication
+kommunikationsnetze;communication networks
+kommunikationssystem;communciation system
+kommunikationsverbund;communication net
+komparator;comparator
+komparatorplotter;comparator plotter
+kompatibilitaet;compatibility
+kompilieren;compiling
+komplementaerfarben;complementary colours
+komplettdatenabgabe;full data delivery
+komplexe karte;complex thematic map
+komplexe oberflaeche;complex surface
+komplexe objekte;complex objects
+komplexe polygone;complex polygons
+komplexe schattierung;complex shading
+komplexitaet;complexity
+komponente;component
+komponententechnologie;component technology
+kompression;compression
+konfiguration;configuration
+konfigurationsmanagement;configuration management
+konform;conformal
+konforme abbildung;conformal projection
+konformitaet;conformity
+kongruenz;congruence
+konische abbildung;conic projection
+konkretisierung;concretization
+konkurrenzkontrolle;concurrency control
+konnektivitaet;connectivity
+konnektivitaet;connectivity
+konsistenz;consistency
+konsole;console
+konstante;constant
+konstante hoehenstufe;constant height step
+konstante schichthoehe;constant height level
+konstanter vertikaler hoehenlinienabstand;constant vertical contour line distance
+konstantes hoehenlinienintervall;constant contour line interval
+konstruktion mit raumprimitiven;construction with spatial primitives
+kontaktabzug;contact output
+kontextsensitiv;context sensitive
+kontiguitaet;contiguity
+kontinuierliche daten;continuous data
+konto;account
+kontrast;contrast
+kontrastaenderung;contrast changing
+kontrastausgleich;contrast matching
+kontrastuebertragungsfunktion;modulation transfer function
+kontrastumfang;contrast range
+kontrolliertes mosaik;controlled mosaik
+kontrollpunkt;control point
+kontrollsegment;control segment
+kontrollzeichen;control character
+kontur;contour
+konturgrafik;contour graphics
+konturverfolgung;contour following
+konvergenz;convergence
+konvertierung;conversion
+konzentration;concentration
+konzeptionelle modellierungssprache;conceptual schema language
+konzeptionelles modell;conceptual model
+konzeptuelle realitaet;conceptual reality
+konzeptuelles schema;conceptual schemata
+koordinaten;coordinates
+koordinatenachse;coordinate axis
+koordinatenberechnung;coordinate computation
+koordinatendatei;coordinate file
+koordinatengeometrie;coordinate geometry
+koordinatenkennziffer;coordinate identifier
+koordinatensystem;coordinate system
+koordinatentransformation;coordinate transformation
+koordinatenumformung;conversion of coordinates
+koordinatenumformung;transformation of coordinates
+koordinierter punkt;coordinated point
+kopierschutz;copy protection
+korrelation;correlation
+korrelationskoeffizient;correlation coefficient
+kovarianzmatrix;covariance matrix
+kreisdiagramm;circle diagram
+kreuzkorrelationskoeffizient;cross-correlation coefficient
+kreuzvalidierung;cross-validation
+kriminalitaetsanalysen;crime analysis
+krokieren;sketching
+kruemmung;curvature
+kryptologie;cryptology
+kubikmeter;cubic metre
+kubische konvolution;cubic convolution
+kugelkoordinaten;spherical coordinates
+kulturtechnik;rural engineering
+kulturtechnik;agricultural engineering
+kundenbeziehungspflege;customer relationship management
+kuenstliche intelligenz;artificial intelligence
+kuenstliche neuronale netze;artificial neural networks
+kuenstlicher verknuepfungspunkt;artificial tie point
+kuppe;knob
+kurvenanpassung;curve fitting
+kurvendiagramm;curve diagram
+kuerzeste wege;shortest path
+kurzwelliges infrarot;short wave infrared
+kueste;coast
+kuestenkarte;coastal chart
+lagebezeichnung;lcoation name
+lagebezogene verweise;locational reference
+lageparameter;position parameter
+lager;repository
+lagetreue;concrete representation
+landbedeckung;land cover
+landesaufnahme;national topographic surveying
+landeshorizont;national vertical datum
+landeskartenwerk;national map series
+landeskultur;land cultivation
+landeskunde;applied geography
+landesnetz;national network
+landespflege;landscape conservation
+landesplanung;regional policy of a land government
+landesvermessung;national survey
+landinformationssystem;land information system
+landkarte;map
+laendlicher raum;rural region
+landschaft;landscape
+landschaftsinformationssystem;landscape information system
+landschaftsoekologie;landscape ecology
+landschaftspflege;protection and conservation of landscape
+landschaftsplan;landscape plan
+landschaftsschutzgebiet;protected area
+landwirtschaft;agriculture
+landwirtschaftliche datenuebertragungs-syntax;agricultural data interchange syntax
+landwirtschaftliche nutzflaeche;agricultural area
+landwirtschaftliche standortkarte;agricultural map of positional behaviour
+landwirtschaftliches bus-system;agricultural bus system
+laenge;length
+laengengrad;longitude
+laengenkreise;meridians
+laengenmassstab;linear scale
+laengsneigung;slope
+laengsprofil;longitudinal profile
+laengsschnitt;longitudinal section
+laengsueberdeckung;length coverage
+laermschutz;noise protection
+laserdrucker;laser printer
+laserplotter;laser plotter
+laserscanner;laserscanner
+laufendhaltung;map revision
+lauffaehiges programm;executable
+lauflaengencodierung;run length encoding
+laufvariable;loop number
+leerzeichen;blank
+legende;legend
+leistungsmerkmal;performance feature
+leitbild;overall concept
+leitungsanlagen;utility plants
+leitungskataster;recording and registering of utility services
+leitungsnetz;utility network
+leitungsplan;plan of utility lines
+leitungsrecht;pipeline wayleave
+lentikularlinsentechnik;lenticular lenses method
+liegenschaften;real estates
+liegenschaftsbuch;cadastral book
+liegenschaftskataster;cadaster of real estates
+liegenschaftswesen;cadaster
+lineare praediktion;linear prediction
+linearer interpolator;linear interpolator
+liniendrucker;line printer
+linienkarte;line map
+liniensegment;line segment
+liniensignaturen;line signature
+linienverfolgung;line following
+lizenz;licence
+logical consistency;logische konsistenz
+logischer ausdruck;logical expression
+logischer operator;boolean operator
+logischer operator;logical operator
+logisches datenmodell;logical data model
+entwaesserungsrichtung;drain direction
+ertragsermittlung;yield computations
+kartesische koordinaten;cartesian coordinates
+lokales beleuchtungsmodell;local illumination model
+lokales bezugssystem;local reference system
+lokales datum;local datum
+lose kopplung;loosly-coupled
+loxodrome;rhumb line
+luecke;gap
+luftbild;aerial image
+luftbildarchaeologie;aerial archaeology
+luftbildinterpretation;aerial image interpretation
+luftbildkamera;aerial camera
+luftbildkarte;photomap
+luftbildkartenrelief;photomap relief
+luftbildmessung;photogrammetry
+luftbildmosaik;aerial image mosaik
+luftbildplan;controlled mosaic
+luftbildrelief;relief with superimposed aerial photograph
+luftfahrtkarten;aeronautical maps
+maeander;meander
+machbarkeitsstudie;feasibility study
+magnetbandspeicher;winchester storage
+magnetische deklination;magnetic declination
+magnetische nordrichtung;magnetic north
+magnetisch-nord;magnetic north
+magnetplattenspeicher;magnetic disc
+management;management
+manuelle eingabe;manual input
+manuelles digitalisieren;manual digitizing
+kartengeometrieobjekte;map geometry objects
+markieren;marking
+marktanalyse;market analysis
+maschinenbefehl;maschine instruction
+maschinenlesbar;computer readable
+maschinensprache;machine language
+maske;mask
+massenberechnung;mass computation
+massenermittlung;mass computation
+massenspeicher;mass storage
+massgebundenes generalisieren;generalisation
+massstab;scale
+massstab der hoehen;vertical scale
+massstab der laengen;horizontal scale
+massstabsbalken;scale bar
+massstabsbereich;scale range
+massstabsfolge;scale serie
+massstabstreue;scale preservation
+massstabszahl;scale denominator
+masszahl;scale number
+mathematische statistik;mathematical statistics
+mathematisches modell;mathematical model
+matrix;matrix
+matrixdrucker;matrix plotter
+maximale mutmasslichkeit;maximum likelikood
+medien;media
+meereshoehe;height above sea level
+meereskarte;oceanographic chart. oceanographic map
+mehrbenutzersystem;multi user system
+mehrbenutzerzugriff;multi user access
+mehrbilder;multi imagery
+mehrbildmessung;multi image measurements
+mehrfachrepraesentation;multiple representation
+mehrwegeffekt;multipath error
+mengenlehre;set theory
+menue;menu
+menueleiste;menu bar
+mercatorabbildung;mercator`s projection
+mercatorprojektion;mercator projection
+meridian;meridian
+meridian von greenwich;greenwich meridian
+meridianbogen;arc of meridian
+meridianebene eines punktes;meridian plane of a point
+meridiankonvergenz;grid convergence
+meridianstreifen;meridional zone
+merkmal;feature
+merkmalsbasierte bildzuordnung;feature-based image matching
+merkmalsraum;feature space
+messbild;image
+messbildebene;image plane
+messgenauigkeit;measurement accuracy
+messgroesse;measuring unit
+messkamera;photogrammetric camera
+messmarke;floating mark
+messtischaufnahme;plane table survey
+messtischblatt;german sheet lines (for basic plane table survey)
+messung;measurement
+metadaten;meta data
+metadatenschema;meta data schemata
+metainformation;meta information
+metainformationssystem;meta information system
+meter;meter
+mikrowellen;microwaves
+millionen anweisungen pro sekunde;mips
+millionen anweisungen pro sekunde;million instructions per second
+minimal einschliessendes rechteck;minimum bounding rectangle
+missweisung;magnetic declination
+mittelachsen;middle axis
+mittellinie;center line
+mittellinie eines flusslaufs;centre line of a river
+mittelmassstaebige karte;mean scale
+mittelwert;average value
+mittelwertbildung;average value computation
+mittlere greenwich zeit;greenwich mean time
+mittlere zugriffszeit;average access time
+mittlerer hoehenfehler der gelaendedarstellung durch hoehenlinien;mean height error of terrain representation by contour lines
+mittlerer lagefehler der grundrissdarstellung;mean positional error in plane representation
+mittlerer wasserstand;mean water level
+mittleres erdellipsoid;mean earth-ellipsoid
+mittleres infrarot;mid-infrared
+thermal-infrarot;thermal infrared
+mobile erfassung;mobile capture
+mobile felddatenerfassung;mobile field data capture
+mobiles internetprotokoll;mobile ip
+mobiles laserscanning;mobile laserscanning
+mobiles rechnen;mobile computing
+mobilitaet;mobility
+modell;model
+modellblock;model block
+modellfehler;model error
+modellierung;modelling
+modellkoordinaten;model coordinates
+modellmassstab;model scale
+modellparallaxen;model parallaxes
+modul;module
+modulation;modulation
+momentaufnahme;snapshot
+monitoring;monitoring
+monochromatisches bild;monocromatic imagery
+monokomparator;mono comparator
+moor;bog
+morphographische karte;landform-type map
+morphographische karte;terrain-type map
+mosaik;mosaic
+mosaikbildung;mosaicking
+muellansammlung;garbage collection
+multimedia;multi media
+multimediawerkzeug;multi media tool
+multiple vererbung;multiple inheritance
+multiprozessierung;multiprocessing
+multiprozessorsystem;multi processor system
+multisensorale aufnahme;multisensoral data acquisition
+multisensorsystem;multi sensor system
+multispektral;multi spectral
+multispektralaufnahme;multi spectral data acquisition
+multispektralbild;multi spectral image
+multispektralklassifizierung;multi spectral classification
+multispektralscanner;multi spectral scanner
+multitemporale aufnahme;multi temporal data acquisition
+muster;pattern
+musterblatt;style sheet
+mustererkennung;pattern recognition
+nachbar;neighbour
+nachbarschaftsanalyse;proximalanalyse
+nachbarschaftsanalysen;neigborhood analysis
+nachbarschaftstyp;neighbor type
+nachbau;clone
+nachberechnung;post processing
+nachbildung;emulation
+nachhaltigkeit;sustainability
+nachricht;message
+nadelabweichung;grid magnetic angle
+nadelabweichung;grivation
+nadeldrucker;pin printer
+nadir;nadir
+nadiraufnahme;nadir photo
+nahbereichsphotogrammetrie;close-range photogrammetry
+naehe;proximity
+nahes infrarot;near infrared
+nationalatlas;national atlas
+natuerlicher verknuepfungspunkt;natural tie point
+naturpark;nature conservation park
+naturschutz;nature conservation
+naturschutzgebiete;conservations areas
+naturschutzgebiete;nature reserves
+nautische kartographie;nautical cartography
+navigation;navigation
+navigationskarte;navigational chart
+neigungsmassstab;slope scale bar
+netzanlage;network layout
+netzanlage;establishment of a network
+netzberechnung;network calculation
+netzberechnungsplaene;maps for network calculation
+netzentwurf;map projection draft
+netzgeplauder;chat
+netzinformationssystem;network information system
+netzinfrastruktur;network infrastructure
+netzmanagement;network management
+netzplan;network plan
+netztopologie;network topology
+netzverdichtung;network densification
+netzwerk;network
+netzwerk fuer geographische information in europa;ginie
+netzwerkadministration;network administration
+netzwerkanalyse;network analysis
+netzwerk-datenbankstruktur;network database structure
+netzwerkmanagement;network management
+netzwerkmodell;network model
+netzzusammenschaltung;interconnection
+neupunkt;new point
+neuronale netze;neural network
+neustart;restart
+neuverteilungskarte;new land consolidation plan
+neuzeichnen;redraw
+nicht exakter interpolator;non exact interpolator
+nicht im paket;unbundled
+nichtamtliche kartenwerke;private map series
+niedere geodaesie;surveying
+niedrige kosten;low cost
+niveauflaeche;equipotential surface
+niveauflaeche;level surface
+niveaulinie;level line
+nivellement;levelling
+nivellementnetz;levelling network
+nivellieren;levelling
+nivellierinstrument;levelling instrument
+nivellierlatte;levelling rod
+nordrichtung;north direction
+nordwert;northing
+normale;normal vector
+normale abbildung;normal projection
+normale lage der abbildungsflaeche;normal position of the projection plane
+normalfall;normal case
+normalform;normal form
+normalhoehe;normal height
+normalhoehenpunkt;standard height reference point in germany
+normalisierter differenzvegetationsindex;normalized difference vegetation index
+normalisierung;normalisation
+normalnull;height reference system nn
+normalstreifen;normal stripes
+normalverteilung;normal distribution
+normalwinkelkamera;normal angle camera
+normentwurf;standard draft
+normung;standardisation
+nullmeridian;prime meridian
+nullmeridian;meridian of origin
+nullmeridian;zero meridian
+nullmeridianebene;prime meridian plane
+nullzelle;zero cell
+numerische taxonomie;numerical taxonomy
+numerischer zeichenvorrat;set of numerical characters
+nutzer;user
+nutzersegment;user segment
+nutzungsart;land use type
+nutzungsartgrenze;border of land use type
+nutzwertanalyse;benefit analysis
+nyquistsches abtasttheorem;nyquist scan theorem
+oberflaeche;surface
+oberflaechenmodell;surface model
+oberflaechenrauheit;surface roughness
+oberflaechenstreuung;surface scattering
+oberflaechentrendanalyse;trend surface analysis
+objekt;feature
+objektartenkatalog;feature type catalogue
+objektbasierte bildzuordnung;feature based image matching
+objektcode;fetaure code
+objektextraktion;feature extraction
+objektklasse;feature class
+objektklassenprinzip;feature class principle
+objektorientiert;object-oriented
+objektorientierte datenbanksysteme;object-oriented database system
+objektorientierte softwaretechnologie;object-oriented software technology
+objektorientiertes programmieren;object-oriented programming
+objektrelationales datenbankmanagementsystem;object-relational database management system
+objektschluessel;feature key
+objektschluesselkatalog;feature key catalogue
+objektsignatur;object signature
+oeffentlich verfuegbar;public domain
+offset;offset
+operateur;operator
+operation;operation
+optical axis;optische achse
+optimaler schaetzer;optimal estimator
+optische filter;optical filter
+optische platten;optical disk
+optischer bildmittelpunkt;optical image center
+ordinate;ordinate
+ordinatenachse;ordinate axis
+ordinatentreue abbildung;projection with undistorted ordinate axis
+ordnung;order
+organisation;organisation
+organisationsmodell;organisation model
+organizer;organizer
+orientierung;orientation
+orientierungspunkte;orientation points
+orthobild;ortho image
+orthodrome;geodesic line
+orthogonalsystem;orthogonal system
+orthogonalverfahren;orthogonal procedure
+orthometrische hoehe;orthometric height
+orthophoto;ortho photo
+orthophotokarte;ortho photo map
+orthophotomosaik;ortho photo mosaic
+orthophotoplan;ortho photo map
+orthophotoverfahren;ortho photo procedure
+ortsfrequenz;spatial frequency
+ortslage;settlement
+ortsnamen;village name
+ortung;positioning
+ortungsgenauigkeit;positioning accuracy
+ostrichtung;easting
+paket;package
+palette;palette
+panorama;panorama
+panoramaverzerrung;panoramic distortion
+parallaxen;parallaxis
+parallel;parallel
+parallele datenbanken;parallel databases
+parallele medien;parallel media
+parallele schnittstelle;parallel interface
+parallelkoordinaten;parallel coordinates
+parallelkreis;parallel circle
+parallelprojektion;orthographic projection
+parallelrechner;parallel computer
+parallelverschiebung;parallel translation
+parametrisierte darstellung;parametric representation
+paritaetsbit;parity bit
+parser;parser
+partition;partition
+parzelle;parcel
+passive netzwerkkomponente;passiv network component
+passiver satellit;passive satellite
+passiver sensor;passive sensor
+passives mikrowellensystem;passive microwave system
+passives verfahren;passive system
+passpunkt;ground control point
+passwort;pass word
+patent;patent
+pegel;water gauge
+pegel;water level gauge
+peilung;bearing
+performanz;leistungsstaerke
+performanz;performance
+peripherie;peripherie
+peripheriegeraet;peripheral device
+persistenz;persistence
+personalisierung;personalisation
+personendaten;personal data
+persoenliche mobilitaet;personal mobility
+perspektive;perspective
+perspektivische ansicht;perspective view
+pfad;path
+pfadname;pathname
+pfeilhoehe;versed sine
+pflanzenerkennung;plant detection
+pflichtenheft;fine specifications
+phasenkonzept;phase concept
+phasenmehrdeutigkeit;ambiguity
+photogeologie;photo geology
+photogrammetrie;photogrammetry
+photogrammetrische aufnahme;photogrammetric image
+photogrammetrische auswertung;photogrammetric processing
+photogrammetrisches modell;photogrammetric model
+photogrammetrisches objektiv;photogrammetric lens
+photographie;photography
+photointerpretation;photo interpretation
+photomosaik;photo mosaic
+photorealistische computergraphik;foto realistic computer graphics
+photorealistische darstellung;photo realistic representation
+physikalisches datenmodell;physical data model
+piktogramm;pictogram
+pilotstudie;pilot study
+ping;packet internet groper
+pivotieren;pivoting
+pivottabelle;pivot table
+pixel pro inch;pixel per inch
+pixelgraphik;pixel graphics
+plan;plan
+planarer graph;planar graph
+planares koordinatensystem;plane coordinate system
+planaufstellung;scheme of planning
+planen;planning
+planfeststellung;assessment of project
+plangebiet;plan area
+planimetrie;planimetry
+planimetrische karte;planimetric map
+planungsatlas;series of plans
+planungsphase;planning phase
+planungsrecht;planning law
+planungstraeger;authority concerned with planning
+planzeichenverordnung;regulation of plan notations and signs
+plateaubildung;wedding cake effect
+plattenkamera;glass plate camera
+plattform;platform
+plattformunabhaengigkeit;platform independence
+plausibilitaetspruefung;plausibility check
+plotter;plotter
+polaraufnahme;polar mapping
+polare abbildung;polar projection
+polare punktbestimmung;polar point determination
+polares anhaengen;polar point determination
+polarimetrisches sar;polsar
+polarisation;polarisation
+polarisationsverfahren;polarisation method
+polarkoordinaten;polar coordinates
+polarstaendige satellitenumlaufbahn;polar orbiting satellite
+politische grenzen;political and administrative boundaries
+polyederabbildung;polyhedric projection
+polygon;polygon
+polygonbildung;polygonization
+polygonierung;polygonization
+polygonzug;traverse
+polykonische abbildung;polyconic projection
+polymorphismus;polymorphism
+polynom;polynom
+polynomial;polynomial
+portabilitaet;portability
+portabler pc;handheld pc
+portal;portal
+portalseite;portal page
+position;position
+positionsbezugssystem;positional reference system
+positionsfehler;positional error
+positionsgenauigkeit;positional accuracy
+positionssignaturen;position signature
+postleitzahl;postcode
+postprozessor;postprocessor
+praedikat;predicate
+praediktion;prediction
+praktische kartographie;practical cartography
+praesentationsgraphik;presentation graphics
+praesentationsobjekte;presentation objects
+praezision;precision
+primaere erfassungsmethode;primary data acquisition
+primaere metrik;primary metrices
+primaeres digitales oberflaechenmodell;primary digital surface model
+primaerfarben;primary colours
+primaerschluessel;primary key
+primaerspeicher;primary storage
+prinzip der nachbarschaft;principle of adjacent points
+prisma;prism
+privatkartographie;private cartography
+privilegien;privileges
+produktanpassung an kundenwuensche;customizing
+produkte der bildinterpretation;products of image interpretation
+produkte der bildmessung;products of image measurements
+produktionsphase;production phase
+produktionsregeln;production rules
+produktvorauswahl;product preselection
+profil;profile
+prognose;prognosis
+programm;program
+programmabsturz;program crash
+programmausdruck;listing
+programmbeschreibung;program description
+programmbibliothek;program library
+programmgeneratoren;program generator
+programmierer;programmer
+programmierfehler;program error
+programmiersprache;programming language
+programmierung;programming
+programmschnittstelle;program interface
+projekt;project
+projektdokumentation;project documentation
+projektgebiet;project area
+projektierung;projecting
+projektion;projection
+projektionszentrum;projection centre
+projektkoordinaten;project coordinates
+projektkultur;project culture
+projektleiter;project leader
+projektplan;project plan
+projektplanung;project planning
+projektteam;project team
+projektziele;project targets
+prolog;programming in logic
+promotheus;program for a european traffic with highest efficiency and unprecedented safety
+proprietaer;proprietary
+protokoll;protocol
+protokollierung;logging
+prozedur;procedure
+prozess;process
+prozessfarben;process colours
+prozessmodell;process model
+prozessor;processor
+pruefausdruck;check plot
+pseudocode;pseudo code
+pseudofarbbild;pseudo colour image
+pseudoskopische betrachtung;pseudoscopic view
+puffer;buffer
+puffern;buffering
+pufferzone;buffer zone
+punkt;point
+punkt der bildmessung;point of image measurement
+punktauftragung;plotting of points
+punktbestimmung;point determination
+punktdatei;point file
+punktdichte;point density
+punktdigitalisierung;point digitising
+punktmodus;point mode
+punktuebertragung;point transfer
+punktuebertragungsgeraet;point transfer device
+punktverteilung bei der gelaendeaufnahme;point distribution in the terrain
+pyknophylaktische interpolation;pycnophylactical interpolation
+quadrant;quadrangle
+quadratmeter;square metre
+quadratnetz;quadratic net
+qualifizierter bebauungsplan;qualified development plan
+qualitaet;quality
+qualitative karten;qualitative map
+qualitaetselement;quality element
+qualitaetsindikator;quality indicator
+qualitaetsmanagement;quality management
+qualitaetsmass;quality measure
+qualitaetsnorm;quality norm
+qualitaetsparameter;quality parameter
+qualitaetsschema;quality schema
+quantisierungsfehler;quantisation error
+quantisierungsintervall;quantisation interval
+quantisierungsrauschen;quantisation noise
+quantitative karten;quantitative maps
+quasigeoid;quasi geoid
+quellcode;source code
+quelldatei;source file
+quellenangabe;source
+quellenkarten;source map
+quergefaelle;cross fall
+querneigung;cross slope
+querueberdeckung;cross overlapping
+radarantenne;radar antenna
+radarbild;radar image
+radargleichung;radar equation
+radarschatten;radar shadow
+radiale versetzung;radial shift
+radiant;radiant
+radiofunkidentifizierung;rfid
+radiometer;radiometer
+radiometrische aufloesung;radiometric resolution
+radiometrische bildtransformation;radiometric transformation
+radius;radius
+radix;radix
+rahmen;frame
+rahmenkarte;frame map
+rahmenmarke;fiducial mark
+rahmenmarke;fiducial mark
+rahmenplanung;framework planning
+randanpassung;edge matching
+randblatt;border sheet of map
+randdarstellung;boundary representation
+raster;raster
+rasterband;raster band
+rasterbild;raster image
+rasterdatei;raster file
+rasterdaten;raster data
+rasterdatenbank;raster database
+rasterdatenformate;raster data formats
+rasterdatenmodell;raster data model
+rasterdatenvorverarbeitung;raster data preprocessing
+rasterdisplay;raster display
+rastereinfangmechanismus;raster snap
+rasterertrag;raster yield
+rasterformat;raster format
+rastergraphik;raster graphics
+rasterhintergrund;raster background
+rasterisierung;rasterisation
+rasterkarte;grid map
+rasterkarte;raster map
+rasterobjekt;raster object
+rasterplotter;raster plotter
+rasterstruktur;raster structure
+rastertechnologie;raster technology
+rastervordergrund;raster foreground
+rastervorverarbeitung;raster preprocessing
+rasterzelleneinteilung;raster cell partitioning
+raum;space
+raumanalyse;spatial analysis
+raumbezogene informationswissenschaft;geographic information science
+raumbezogener zugriff;spatial access
+raumbezogenes elementarobjekt;reo
+raumbezogenes schema;spatial schemata
+raumbezug;spatial reference
+raumbild;stereo image
+raumbildkarte;stereo image map
+raumbuch;room book
+rauminformation;spatial information
+rauminformationssystem;spatial information system
+raumkoordinaten;spatial coordinates
+raeumliche abfrage;spatial query
+raeumliche abfragesprache;geographic query language
+raeumliche aerotriangulation;spatial aerotriangulation
+raeumliche analyse;spatial analysis
+raeumliche aufloesung;spatial resolution
+raeumliche genauigkeit;spatial accuracy
+raeumliche messmarke;spatial floating mark
+raeumliche ressourcenplanung;spatial resource planning
+raeumliche unternehmensweite resourcenplanung;spatial enterprise ressource planning
+raeumlicher index;spatial index
+raeumlicher server;spatial server
+raeumlicher verweis;spatial reference
+raeumliches bezugssystem;spatial reference system
+raeumliches datenschnueffeln;spatial data mining
+raeumliches entscheidungsunterstuetzungssystem;spatial decision support system
+raeumliches modell;spatial model
+raumordnungsbericht;report of the federal government on regional policy
+raumordnungskataster;cadastre for regional planning
+raumordnungsverfahren;scheme of regional planning
+raumplanung;regional planning
+raumsegment;space segment
+rauschen;noise
+realisierung;realisation
+realteilung;subdivision of lots due to code napoleon
+rechenanlage;computer
+rechner;computer
+rechneranimation;computer animation
+rechnerbasiertes training;computer based training
+rechnererzeugte bilder;computer generated images
+rechnergestuetzte kartierung;computer aided mapping
+rechnergestuetzte produktion;computer aided manufacturing
+rechnergestuetzte softwareentwicklung;computer aided software engineering
+rechnergestuetztes softwaretesten;computer aided software testing
+rechnergestuetztes zeichnen und entwerfen;computer aided design
+rechnerinfrastruktur;computer infrastructure
+rechnerische auswertung;computer processing
+rechnerische bildinterpretation;computerised image interpretation
+rechtswert;easting
+reduktion;reduction
+redundanz;redundancy
+referentielle integritaet;referential integrity
+referenzdaten;reference data
+referenzellipsoid;reference ellipsoid
+referenzpunkt;reference point
+referenzstation;reference station
+reflexion;reflection
+reflexionsgrad;degree of reflection
+regelwerk;framework
+region;region
+region;face
+regionalisierte variable;regionalised variable
+regionalplan;regional plan
+regionalstruktur;regional structure
+regionenwachstum;region growing
+registrierung;registration
+registry;register
+regression;regression
+regressionsgerade;regression straight line
+rektifikation;rectification
+rekursion;recursion
+relational;relational
+relationale datenbank;relational database
+relationales modell;relational model
+relationenalgebra;relational algebra
+relative entzerrung;relative image registration
+relative genauigkeit;relative accuracy
+relative koordinate;relative coordinates
+relative orientierung;relative orientation
+relative positionsgenauigkeit;relative positional accuracy
+relativmessung;relative measurement
+relief;relief
+reliefdiversitaet;relief diversity
+reliefenergie;intensity of relief
+rentabilitaetsrechnung;rentability computations
+ressource;resource
+richtungswinkel;grid bearing
+ring;ring
+ringtopologie;ring topology
+risikoanalyse;risk analysis
+rohdaten;raw data
+rollen;scrollen
+rotation;rotation
+rotationsflaeche;surface of revolution
+rotationslaser;rotation laser
+routenfuehrung;route guidance
+routenplanung;routing
+rueckgrat;backbone
+rueckwaertseinschneiden;resection
+sachdatenabfragen;query on attributes
+sachsatz;attribute set
+sammelmethode;sampling
+sammlung;acquiring
+satellit;satellite
+satellitenbild;satellite image
+satellitenbildkarte;satellite image map
+satellitenfernerkundungssensoren;satellite based remote sensing sensors
+satellitengeodaesie;satellite geodesy
+satellitenkamera;satellite camera
+satellitenphotogrammetrie;satellite photogrammetry
+satellitenscanner;satellite scanner
+saettigung;saturation
+saeulendiagramm;column diagram
+scanfrequenz;scan rate
+schablone;template
+schalter;switch
+schattenschraffen;shading hachures
+schattierung;shading
+schaetzungskarte;soil evaluation map
+schaetzungsrahmen;scheme of soil evaluation
+schemaplaene;schema plans
+schicht;layer
+schluessel;key
+schluesseldatei;key file
+schnittpunkt;intersection
+schnittstelle;interface
+schnittstelle;port
+schnittstelle;interface
+schnittstellenformat;interface format
+schnittstellenspezifikation;interface specification
+schraffen;hachures
+schraffur;hatching
+schreibdichte;writing density
+schreiben;writing
+schreibschutz;write protection
+schrift in topographischen karten;lettering in topographic maps
+schriftfreistellung;background removal for lettering
+schriftgroessen;gauges
+schriftmuster;lettering specimens
+schriftvorlage;lettering model
+schummern;shading
+schutzgebiet;protection area
+schwadbreite;swath width
+schwellwert;threshold value
+schwellwert;threshold
+schwerenetz;gravity net
+schwerkraft;gravity
+schwerpunkt;centroid
+seekartennull;nautical chart datum
+seekartennull;sounding datum
+seekartenwerk;nautical chartwork
+seekartographie;hydrographic charting
+seevermessung;hydrographic survey
+segment;segment
+segmentierung;segmentation
+seite;page
+selektive verfuegbarkeit;selective availability
+semantik;semantics
+semantische genauigkeit;semantical accuracy
+semantische netze;semantic network
+semantische uebereinstimmung;semantical fitting
+semivariogramm;semi variogram
+senke;depression
+senkrechtaufnahme;normal case
+sensitive karte;clickable maps
+sensitives element;sensitive element
+sensor;sensor
+sensor der fernerkundung;remote sensing sensor
+serverdatenbank;server data base
+sicherheitskonzept;security concept
+sicherung;backup
+sicht;view
+sichtbares licht;visible light
+siedlung;urban agglomeration
+siedlung;inhabited area
+siedlung;dwelling
+siedlung;settlement
+siedlung;inhabited place
+ortschaft;urban agglomeration
+ortschaft;inhabited area
+ortschaft;dwelling
+ortschaft;settlement
+ortschaft;inhabited place
+signal;signal
+signalisierter verknuepfungspunkt;signalized tie point
+signalisierung;signalization
+signatur;signature
+simulation;simulation
+situationsbezogene informationsverarbeitung;situation aware computing
+skalare groesse;scalar value
+skalen;scales
+skalentransformation;scale transformation
+skalierbar;scalable
+skalierung;scaling
+skriptsprache;script language
+softwareverteilung;softwaredistribution
+sollzustand;nominal state
+sonderkarte;special map
+sortieren;sorting
+spalte;column
+spalte;gap
+speicherbusse;storage busses
+speichermedium;disk
+spektral;spectral
+spektralbereiche;spectral regions
+spektrale aufloesung;spectral resolution
+spektrale empfindlichkeit;spectral sensitivity
+spektrale reflexionskurve;spectral reflectance curves
+spektrale strahlungstemperatur;spectral radiation temperature
+sperren;locking
+sphaerische geometrie;spherical geometry
+sphaerische koordinaten;spherical coordinates
+sphaeroid;spheroid
+spiegelstereoskop;mirror stereoscope
+spline;spline
+splitterpolygon;sliver polygon
+spracherkennung;voice recognition
+sprungbefehl;go to instruction
+spur;track
+spurfuehrung;tracking control
+stabdiagramm;column diagram
+stabilisierte aufhaengung;stabilized mounting
+staedtebauliche entwicklungsmassnahme;urban development plans
+staedtebaulicher plan;urban area development plan
+staedtebauliches entwicklungsverfahren;urban development procedure
+stadtentwicklungsplan;urban area development plan
+stadtkartographie;town mapping
+stadtvermessung;town surveying
+standard;standard
+standardabweichung;standard deviation
+standorteignungsanalyse;site suitablity analysis
+standortkarten;site maps
+stapelverarbeitung;batch processing
+startseite;homepage
+stationaritaet;stationarity
+stationierung;stationing
+statische speicher;statical storage
+statische vermessung;static survey
+statistik;statistics
+steckplatz;slot
+steigung;slope
+stereoauswertegeraet;stereo restitution device
+stereobild;stereo image
+stereobildmessung;stereo image measurements
+stereobildpaar;stereo image pair
+stereobrille;stereo glasses
+stereoeffekt;stereo effect
+stereokomparator;stereo comparator
+stereomesskamera;stereo camera
+stereometer;stereometer
+stereometrie;stereometry
+stereomodell;stereo model
+stereopartner;stereo partner
+stereophotogrammetrie;stereo photogrammetry
+stereoskop;stereoscope
+stereoskopie;stereoscopy
+stereoskopischer plotter;stereoscopic plotter
+stereoskopisches sehen;stereoscopic vision
+steuereinheit;control unit
+steuerknueppel;joystick
+steuerungseinheit;controller
+steuerzeichen;control character
+stichprobe;sample
+stochastische simulation;stochastic simulation
+strahl;beam
+strahlung;radiation
+strahlverfolgung;raytracing
+strassen;roads
+strassen;routes
+strassen;streets
+strassen;courts
+strassendaten;road data
+strassenkataster;road cadastre
+strategische planung;strategic planning
+strecke;distance
+streckenmessung;distance measurement
+streuungsmasse;dispersion measures
+stromachse;river axis
+stromachse;stream axis
+stromkilometrierung;kilometre marking of a river
+stroemungsanalyse;flow analysis
+stromversorgung;power supply
+struktogramm;structogram
+strukturierte verkabelung;structured cable
+strukturinformation;structure information
+subtraktion;subtraction
+subtraktive farbmischung;subtractive primary colours
+suchmaschine;search engine
+suchnetz;search net
+symbol;icon
+symbol;symbol
+synchronisation;synchronisation
+synoptische themakarte;thematic map of synoptic representation
+syntax;syntax
+synthese;synthesis
+synthetische karte;thematic map of synthetic representation
+system;system
+systemanalyse;system analysis
+systemauswahl;system selection
+systemkonfiguration;system configuration
+systemprogramm;system program
+systemsoftware;system software
+systemtest;system test
+systemvergleich;system comparison
+systemwechsel;system change
+szene;scene
+tabelle;table
+tachymeter;tacheometer
+tachymeteraufnahme;tacheometric survey
+tachymeterformeln;formulae for tacheometric reductions
+tachymeterzug;tacheometer traverse
+tachymetrie;tacheometry
+tachymetrische gelaendeaufnahme;tacheometric survey
+technische spezifikationen;technical specifications
+technisches rathaus;technical town hall
+teilmesskamera;partial photogrammetric camera
+teilschlagbezogene landwirtschaft;precision farming
+telematik;telematics
+telemetrie;telemetry
+terminalprogramm;terminal program
+terrestrische kammer;terrestrial camera
+terrestrische ortsbestimmung;terrestrial position determination
+terrestrische photogrammetrie;terrestrial photogrammetry
+terrestrisches bild;terrestrial image
+terrestrisches laserscanning;terrestrical laserscanning
+tesselation;tesselation
+texteditor;text editor
+textenvelope;text envelope
+texterkennung;text recognition
+textplatzierung;lettering
+textposition;text position
+textrechteck;text rectangle
+textur;texture
+texturbelegung;texture mapping
+textverarbeitung;text processing
+thema;theme
+thematische ebene;thematic layer
+thematische karte;thematic map
+thematische kartographie;thematic cartography
+thematisches modell;thematic model
+thematisches modellieren;thematic modelling
+theodolit;theodolite
+theoretische kartographie;theoretical cartography
+thermalbild;thermal image
+thermalscanner;thermal scanner
+thermodrucker;thermo printer
+thermogramm;thermogram
+thermographie;thermography
+tiefbau;underground construction engineering
+toleranz;tolerance
+toleranzband;epsilon band
+tonspurinhalt;soundtrack
+topogramm;topogram
+topographie;topography
+topographische aufnahme;topographic survey
+topographische auswertung von luftbildern;topographic evaluation of aerial imagery
+topographische datenbank;topographic database
+topographische gelaendeaufnahme;topographic survey
+topographische karte;topographic map
+topographische kartenwerke;topographic map series
+topographische kartographie;topographic cartography
+topographische landesaufnahme;topographic surveying
+topographische uebersichtskarte;topographic overview map
+topographische vermessung;topographic surveying
+topographischer meldedienst;topographic information service
+topograpisches merkblatt;topographic message sheet
+topologie;topology
+topologische eigenschaften;topological properties
+topologische grundform;topological base form
+topologische operatoren;topological operators
+topologische uebereinstimmung;topological fitting
+topologisches modellieren;topologic modelling
+topologisches subsystem;topologic subsystem
+transaktion;transaction
+transaktionsdatenbanken;transaction database
+transaktionskontrolle;transaction control
+transaktionskonzept;transaction concept
+transferformat;transfer format
+transformation;transformation
+transformieren;transforming
+transitives variogramm;transitive variogram
+translation;translation
+transmission;transmission
+transparent;transparent
+transversale lage der abbildungsflaeche;transversal position of the projection plane
+treffer;hit
+triangulation;triangulation
+triangulationsnetz;triangulation network
+trigonometrische hoehenmessung;trigonometric levelling
+trigonometrischer punkt;trigonometric point
+trilateration;trilateration
+uebereinstimmend;coterminous
+uebergangspunkt;crossover point
+ueberlappung;overlap
+ueberlauf;overflow
+uebersetzer;compiler
+uebersetzung;compilation
+uebersichtskarte;overview map
+uebersichtsplan;overview plan
+ueberstand;overshoot
+uebertragung;transfer
+uebertragungsgeschwindigkeit;transfer speed
+uebertragungsschema;transfer scheme
+ueberwachte klassifizierung;supervised classification
+ueberweitwinkelkamera;super wide angle camera
+uhren offset;clock offset
+ultraviolett;ultraviolet
+umbildung;transformation
+umgebungsvariable;environment variable
+umklappung;lay over
+umlaufbahn;orbit
+umlegungsgebiet;reallotment area
+umlegungskarte;reallotment map
+umlegungsplan;reallotment plan
+umlegungsverzeichnis;reallotment directory
+umrechnung;resampling
+umsetzer;converter
+umwandlung;conversion
+umwandlungstabelle;lookup table
+umweltdatenkatalog;environmental data catalogue
+umweltinformationsgesetz;environmental information law
+unschaerfe;fuzzy
+unscharfe menge;fuzzy set
+unsichtbare linie;invisible line
+unterbrechung;interrupt
+unternehmensserver;enterprise server
+unterprogramm;routine
+unueberwachte klassifizierung;unsupervised classification
+urkarte;base map
+ursprung;origin
+variable;variable
+vegetation;vegetation
+vegetationsflaeche;vegetation area
+vektor;vector
+vektordaten;vector data
+vektordatenmodell;vector data model
+vektorgraphik;vector graphics
+vektorgraphikstruktur;vector graphic structure
+verbreitungskarten;distribution maps
+verdeckte linien;hidden lines
+verdichtung;densify
+vereinbartes trennzeichen;delimiter
+vereinfachung;simplification
+vererbung;inheritance
+vergleichspunkt;point for comparison
+verkehrswert;market value
+verknuepfungspunkt;tie point
+verkuerzung;foreshortening
+vermarkung;marking
+vermarken;mark
+vermessung;surveying
+vermessungskunde;surveying
+vermessungsnachweis;surveying results
+vermessungspunkt;survey point
+vermessungstechnik;surveying techniques
+vermittelnde abbildung;arbitrary projection
+verschluesselung;kryptographie
+verschluesselung;encoding
+verschmelzung;conflation
+verschneidung;overlay
+versiegelte flaeche;covered area
+versiegelte flaeche;sealed area
+versorgungsanlage;supply facilities
+versorgungseinrichtungen;supply arrangements
+vertex;vertices
+vertiefung;pit
+vertikaler abstand;vertical distance
+vertikales datum;vertical datum
+vertikalwinkel;vertical angle
+vertragskataster;cadastre of existing contracts
+vertragswerk;contract work
+vertrauensmass;confidence measure
+verwaltungsakt;administrative contract
+verwaltungsgliederung;thematic representation of administrative borders
+verzeichnis;directory
+verzeichnisdienst;directory service
+verzeichnung;distortion
+verzeichnungskurve;distortion curves
+verzerrung;distortion
+virtuell;virtual
+virtueller speicher;virtual storage
+visualisierung;visualisation
+visualisierungssysteme;visualisation system
+visuelle bildinterpretation;visual image interpretation
+visuelle bildzuordnung;visual image matching
+vollbild;full image
+volumen;volume
+volumenelement;voxel
+volumenmessung;volume measurements
+volumenmodell;volume model
+volumenstreuung;volume scattering
+vorverarbeitung;preprocessing
+vorwaertseinschneiden;intersection
+wahrscheinlichkeit;probability
+wahrscheinlichkeitsverteilungsfunktion;probability distribution function
+warteschlange;queue
+wartung;maintenance
+wasserbau;hydraulic engineering
+wasserflaeche;water area
+wasserlinienverfahren;water line method
+wasseroberflaeche;water surface
+wasserrahmenrichtlinie;water framework directive
+wasserscheide;watershed
+wasserscheidenanalysesystem;watershed analysis system
+wasserschutzgebiete;water protected area
+wasserspiegel;water surface
+wasserstand;water level
+wassertiefe;water depth
+wasserversorgung;water supply
+wasserversorgungsunternehmen;water supply companies
+wasserwirtschaft;water management
+wasserwirtschaftliche rahmenplanung;water resources framework planning
+weitwinkelkamera;wide angle camera
+weltweites netz;world wide web
+wertebereich;domain
+wertezuweisung mittels naechstem nachbarn;nearest neighbor sampling
+winkel;angle
+winkeleinheit;angle unit
+winkeltreue abbildung;conformal projection
+winkelverzerrung;angular distortion
+wirtschaftlichkeitsberechnung;rentability calculations
+wirtschaftsinformatik;business informatics
+wirtschaftswege;farm roads
+zahlensystem;numbering system
+zeichen;character
+zeichen;character
+zeichendichte;character density
+zeichenerklaerung;legend
+zeichenkette;string
+zeichensatz;character set
+zeichenvorrat;character set
+zeichenvorschrift;drawing rules
+zeiger;pointer
+zeigergeraet;puck
+zeile;line
+zeitimpuls;clock pulse
+zeitzone;time zone
+zenit;zenith
+zenitwinkel;zenith distance
+zentralisation;centralization
+zentralisierte datenbanken;centralized data bases
+zentralitaet;centrality
+zentralprojektion;central projection
+zentralpunkt;initial point
+zentroid;centroid
+zertifizierung;certification
+zufaelliger fehler;random error
+zugaenglichkeit;accessibility
+zugangskontrolle;authorization control
+zugeordnete daten;associated data
+zugriff;access
+zugriffskontrolle;access control
+zugriffsrecht;access rights
+zugriffszeit;access time
+zusaetzliche parameter;additional parameters
+zuteilung;allocation
+zuverlaessigkeit;reliability
+zweibildphotogrammetrie;stereo photogrammetry
+zwischenpunkte;intermediate points
+zylinderabbildung;cylindrical projection
